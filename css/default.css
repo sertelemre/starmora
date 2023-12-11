@@ -2,8 +2,8 @@ html,body{
     margin:0;
     padding:0;
     background-color: #0B0C0D;
-    font-family: 'Inter', sans-serif;
-font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
+
 background-image: url(../images/bg.png);
 background-position: top center;
 background-size: cover;
@@ -253,18 +253,24 @@ max-width: 360px;
   
 }
 .mailForm input{
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 500;
-    background-color: #E2B38B;
+    background-color: #C6C5C5;
     color: #0B0C0D;
     border-radius: 6px;
     padding: 0px 8px;
-    height: 26px;
+    height: 30px;
     text-align: left;
     min-width: 10px!important;
     border: none;
-    margin: 6px 0;
+    margin: 6px 2px;
 }
+.mailForm input:hover, .mailForm input:invalid{
+    background-color: #E2B38B;
+ }
+ .mailForm .time{
+
+ }
 .btnOutline{
     background-color: transparent;
     border:1px solid #C6C5C5;
@@ -272,6 +278,9 @@ max-width: 360px;
     padding: 12px 24px;
     border-radius: 12px;
 }
+.mailForm .btnOutline{
+    margin-top: 36px;
+} 
 .container {
     max-width: 1480px;
   }
@@ -502,12 +511,15 @@ ul.footerMenu {
         max-height: auto;
     }
     .mobileChat {
-        margin: 96px auto 0px;
+        margin: 60px auto 0px;
         width: 100%;
-        padding: 0 24PX;
+        padding: 0 36PX;
         border-bottom: 4px solid #344143;
     }
     .bg-box1 .boxActions{
         display: none;
+    }
+    .birthchart {
+        margin-top: 48px;
     }
 }
