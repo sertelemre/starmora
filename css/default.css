@@ -69,6 +69,7 @@ background-clip: text;
 .heroActions a.store{
     width: 200px;
     height: auto;
+    font-weight: 500;
     margin: 0 12px;
     display: inline-block;
 }
@@ -155,7 +156,7 @@ height: auto;
     color: #FFF;
 font-size: 60px;
 font-style: normal;
-font-weight: 700;
+font-weight: 700!important;
 text-align: left;
 line-height: 72px; /* 120% */
 margin-bottom: 48px;
