@@ -507,4 +507,7 @@ ul.footerMenu {
         padding: 0 24PX;
         border-bottom: 4px solid #344143;
     }
+    .bg-box1 .boxActions{
+        display: none;
+    }
 }
