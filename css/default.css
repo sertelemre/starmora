@@ -1,3 +1,40 @@
+@font-face {
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 300;
+    src: url('https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz,wght@6..12,300&display=swap') format('woff2');
+}
+@font-face {
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: url('https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz@6..12&display=swap') format('woff2');
+}
+@font-face {
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 500;
+    src: url('https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz,wght@6..12,500&display=swap" rel="stylesheet') format('woff2');
+}
+@font-face {
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 600;
+    src: url('https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz,wght@6..12,600&display=swap') format('woff2');
+}
+@font-face {
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 700;
+    src: url('https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz,wght@6..12,700&display=swap') format('woff2');
+}
+@font-face {
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 800;
+    src: url('https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz,wght@6..12,800&display=swap') format('woff2');
+}
+
 html,body{
     margin:0;
     padding:0;
