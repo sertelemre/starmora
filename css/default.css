@@ -314,7 +314,7 @@ max-width: 360px;
 .btnOutline{
     background-color: transparent;
     border:1px solid #C6C5C5;
-    color:#C6C5C5;
+    color:#C6C5C5!important;
     padding: 12px 24px;
     border-radius: 12px;
 }
@@ -358,7 +358,7 @@ ul.footerMenu li a{
     text-decoration: none;
   }
   footer .heroActions{
-    margin: 60px auto 60px;
+    margin: 36px auto 60px;
     display: inline-block;
     width: auto;
 }
