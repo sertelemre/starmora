@@ -126,6 +126,7 @@ background-clip: text;
     padding: 12px 24px;
     border-radius: 12px;
     display:inline-block;
+    float:left;
 }
 .shareBox{
     padding: 24px 0 48px;
