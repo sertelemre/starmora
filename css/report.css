@@ -104,9 +104,10 @@ background-clip: text;
 }
 .heroActions{
     margin: 60px auto 200px;
-    width: 500px;
+    width: 100%;
     max-width: 100%;
     text-align: center;
+    display: inline-block;
 }
 .heroActions a.store{
     width: 200px;
@@ -126,7 +127,6 @@ background-clip: text;
     padding: 12px 24px;
     border-radius: 12px;
     display:inline-block;
-    float:left;
 }
 .shareBox{
     padding: 24px 0 48px;
@@ -323,7 +323,9 @@ ul.footerMenu li a{
 ul.footerMenu {
     margin: 48px auto 0;
 }
-
+.btnOutline{
+    float:left;
+}
 }
 @media (max-width: 767px) {
   
