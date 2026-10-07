@@ -131,3 +131,7 @@ node scripts/check-http.mjs http://127.0.0.1:5184
 Hukuki sayfalarda işletmeci kullanıcının verdiği Pangaea adıyla, iletişim info@starmora.com ile gösterilir. Pangaea ana sayfa/footer markasında gösterilmez. İşletmecinin kayıtlı ülkesi, resmi adresi ve tam ticari unvanı teyit edilmeden hukuki metinlerin tüm yerel yükümlülükleri karşıladığı iddia edilmez. Canlı yayından önce bu bilgiler, barındırma/yedekleme düzeni, HTTPS/Secure cookie ve uygulanabilir hukuki gereklilikler tamamlanmalıdır.
 
 Rakip incelemesi ve UAT sonuçları: [SEO-UAT.md](SEO-UAT.md).
+
+## Dokploy dağıtımı
+
+Repo kökündeki [`compose.dokploy.yaml`](../compose.dokploy.yaml), HTTPS/Traefik yönlendirmesi, özel servis ağı, kalıcı PostgreSQL volume'u ve sağlık kontrolleriyle hazırlanmıştır. Dokploy Compose dosya yolunu `compose.dokploy.yaml` seç. Environment ve proxy ağı kurulumunun adımları [DOKPLOY.md](DOKPLOY.md) içindedir.

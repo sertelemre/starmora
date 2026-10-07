@@ -1,0 +1,121 @@
+# Dokploy: Git repository root, Compose deployment (not Docker Stack).
+# Routing is managed by these labels. See human-design/DOKPLOY.md.
+x-logging: &logging
+  driver: json-file
+  options:
+    max-size: "10m"
+    max-file: "3"
+
+services:
+  db:
+    image: postgres:17-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-starmora}
+      POSTGRES_DB: ${POSTGRES_DB:-starmora_hd}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?Set POSTGRES_PASSWORD in Dokploy Environment}
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    networks:
+      - app
+    labels:
+      traefik.enable: "false"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U \"$$POSTGRES_USER\" -d \"$$POSTGRES_DB\""]
+      interval: 10s
+      timeout: 5s
+      retries: 12
+      start_period: 20s
+    stop_grace_period: 60s
+    logging: *logging
+
+  backend:
+    build:
+      context: ./human-design/backend
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    init: true
+    read_only: true
+    tmpfs:
+      - /tmp:rw,noexec,nosuid,size=16m
+    cap_drop:
+      - ALL
+    security_opt:
+      - no-new-privileges:true
+    environment:
+      ADDR: "0.0.0.0:8080"
+      # pgx reads the credentials from PG* env; no URI escaping of passwords.
+      DATABASE_URL: "host=db port=5432 sslmode=disable connect_timeout=10"
+      PGUSER: ${POSTGRES_USER:-starmora}
+      PGDATABASE: ${POSTGRES_DB:-starmora_hd}
+      PGPASSWORD: ${POSTGRES_PASSWORD:?Set POSTGRES_PASSWORD in Dokploy Environment}
+      CALCULATION_PROVIDER: "local"
+      COOKIE_SECURE: "true"
+      TRUST_PROXY: "true"
+    networks:
+      app:
+        aliases:
+          - ${TRAEFIK_PREFIX:-starmora}-api
+    labels:
+      traefik.enable: "false"
+    depends_on:
+      db:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "wget", "-q", "-T", "3", "-O", "/dev/null", "http://127.0.0.1:8080/api/health"]
+      interval: 10s
+      timeout: 5s
+      retries: 6
+      start_period: 20s
+    stop_grace_period: 30s
+    logging: *logging
+
+  frontend:
+    build:
+      context: ./human-design
+      dockerfile: frontend/Dockerfile
+    restart: unless-stopped
+    environment:
+      API_UPSTREAM_HOST: ${TRAEFIK_PREFIX:-starmora}-api
+      # IPv4 subnet of the actual dokploy-network, obtained on the Dokploy host.
+      TRUSTED_PROXY_CIDR: ${TRUSTED_PROXY_CIDR:?Set the actual dokploy-network IPv4 CIDR in Dokploy Environment}
+    expose:
+      - "80"
+    networks:
+      - app
+      - dokploy-network
+    depends_on:
+      backend:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD-SHELL", "wget -q -T 3 -O /dev/null http://127.0.0.1/tr/ && wget -q -T 3 -O /dev/null http://127.0.0.1/api/health"]
+      interval: 15s
+      timeout: 8s
+      retries: 6
+      start_period: 20s
+    labels:
+      - "traefik.enable=true"
+      - "traefik.docker.network=dokploy-network"
+      - "traefik.http.services.${TRAEFIK_PREFIX:-starmora}-web.loadbalancer.server.port=80"
+      - "traefik.http.routers.${TRAEFIK_PREFIX:-starmora}-http.rule=Host(`${APP_DOMAIN:-starmora.com}`)"
+      - "traefik.http.routers.${TRAEFIK_PREFIX:-starmora}-http.entrypoints=web"
+      - "traefik.http.routers.${TRAEFIK_PREFIX:-starmora}-http.service=${TRAEFIK_PREFIX:-starmora}-web"
+      - "traefik.http.routers.${TRAEFIK_PREFIX:-starmora}-http.middlewares=${TRAEFIK_PREFIX:-starmora}-https-redirect"
+      - "traefik.http.middlewares.${TRAEFIK_PREFIX:-starmora}-https-redirect.redirectscheme.scheme=https"
+      - "traefik.http.middlewares.${TRAEFIK_PREFIX:-starmora}-https-redirect.redirectscheme.permanent=true"
+      - "traefik.http.routers.${TRAEFIK_PREFIX:-starmora}-https.rule=Host(`${APP_DOMAIN:-starmora.com}`)"
+      - "traefik.http.routers.${TRAEFIK_PREFIX:-starmora}-https.entrypoints=websecure"
+      - "traefik.http.routers.${TRAEFIK_PREFIX:-starmora}-https.service=${TRAEFIK_PREFIX:-starmora}-web"
+      - "traefik.http.routers.${TRAEFIK_PREFIX:-starmora}-https.tls=true"
+      - "traefik.http.routers.${TRAEFIK_PREFIX:-starmora}-https.tls.certresolver=letsencrypt"
+    stop_grace_period: 15s
+    logging: *logging
+
+volumes:
+  postgres_data:
+
+networks:
+  app:
+    internal: true
+  dokploy-network:
+    external: true
