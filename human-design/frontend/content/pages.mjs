@@ -31,8 +31,8 @@ export const pages = [
       "Free Human Design Chart & Detailed Reading | Starmora",
     ),
     heading: p(
-      "Kendini keşfetmenin yeni bir yolu.",
-      "A new way to explore yourself.",
+      "Human Design ile kendini keşfet.",
+      "Discover yourself with Human Design.",
     ),
     description: p(
       "Doğum bilgilerinle ücretsiz Human Design haritanı oluştur. Tip, otorite, profil, merkez, kapı ve kanallarını Türkçe veya İngilizce detaylı yorumla keşfet.",
