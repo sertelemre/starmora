@@ -1,0 +1,1574 @@
+{
+  "gateThemes": {
+    "tr": {
+      "1": {
+        "title": "Yaratıcı ifade",
+        "body": "Kendi ifade biçimini bulmak ve bir fikre özgün bir şekil vermek teması. Sonucun beğenilmesi kadar üretim sürecinde kendine alan açmayı da gözlemleyebilirsin.",
+        "practice": "Bir fikri önce kendin için üret; değerlendirmeyi daha sonra yap.",
+        "question": "İfade ederken bana ait olan kısmı duyabiliyor muyum?"
+      },
+      "2": {
+        "title": "Yön ve alıcılık",
+        "body": "Bir yönün oluşmasını dinlemek ve kaynaklarla yönü bir araya getirmek teması. Sürekli kontrol etmeye çalışmadan neye açık olduğunu fark etmek bir gözlem alanı olabilir.",
+        "practice": "Hedefini ve o hedefe götürecek gerçek kaynakları ayrı ayrı yaz.",
+        "question": "Bu yön benim için anlamlı mı?"
+      },
+      "3": {
+        "title": "Yeni bir düzene geçiş",
+        "body": "Başlangıçta dağınık görünen bir şeyin zamanla bir düzene dönüşmesi teması. İlk denemenin kusursuz olmasını beklemeden, henüz şekillenmemiş aşamaya alan açmayı inceleyebilirsin.",
+        "practice": "Bir başlangıcı küçük adımlara böl; ilk adım için yeterli koşulları belirle.",
+        "question": "Henüz oluşmakta olan bu süreçten ne bekliyorum?"
+      },
+      "4": {
+        "title": "Cevap ve açıklama",
+        "body": "Sorulara anlaşılır bir açıklama oluşturma teması. Bir cevabın makul görünmesi ile sınanmış olması arasındaki farkı gözetmek önem kazanır.",
+        "practice": "Bir açıklamanın hangi kanıta dayandığını ve nerede varsayım içerdiğini belirt.",
+        "question": "Bu cevap hangi soruyu gerçekten karşılıyor?"
+      },
+      "5": {
+        "title": "Ritim",
+        "body": "Tekrarlayan alışkanlıklar ve günlük ritim teması. Rutinlerin destekleyici mi, katı mı olduğunu gözlemlemek için kullanılabilir.",
+        "practice": "Bir hafta boyunca çalışma ve dinlenme ritmini kaydet.",
+        "question": "Hangi düzen beni destekliyor?"
+      },
+      "6": {
+        "title": "Yakınlıkta sınır",
+        "body": "Duygusal yakınlaşmada sınırlar ve etkileşim teması. Bir ilişkide yakın olmak ile her şeye açık olmak arasındaki farkı konuşmak için bir başlangıç olabilir.",
+        "practice": "Bir ilişkide rahat olduğun ve olmadığın sınırları açıkça ifade et.",
+        "question": "Yakınlık kurarken sınırlarım da görünür mü?"
+      },
+      "7": {
+        "title": "Ortak yön",
+        "body": "Bir grubun yönüne katkı verme teması. Yön önermekle herkesin yerine karar vermeyi ayırmayı gözlemleyebilirsin.",
+        "practice": "Bir ortak hedefte kimin hangi kararda söz sahibi olduğunu netleştir.",
+        "question": "Bu yönü birlikte mi belirliyoruz?"
+      },
+      "8": {
+        "title": "Katkıyı paylaşmak",
+        "body": "Kendine özgü bir katkıyı görünür kılma teması. Başkasının yöntemini tekrarlamak yerine kendi katkının ne olduğunu adlandırabilirsin.",
+        "practice": "Bir çalışmaya kattığın somut farklılığı bir cümlede anlat.",
+        "question": "Burada benim katkım ne?"
+      },
+      "9": {
+        "title": "Ayrıntıya odaklanmak",
+        "body": "Dikkati küçük bir parçaya yöneltme teması. Bir ayrıntıya yoğunlaşırken bütünün amacını kaybetmemeyi gözlemleyebilirsin.",
+        "practice": "Tek bir alt görev seç ve bitirme ölçütünü belirle.",
+        "question": "Bu ayrıntı bütüne hizmet ediyor mu?"
+      },
+      "10": {
+        "title": "Kendinle uyumlu davranış",
+        "body": "Kendi değerlerinle uyumlu davranma teması. Bir beklentiye uyarken kendi tutumunu kaybedip kaybetmediğini düşünmek için kullanılabilir.",
+        "practice": "Bir gün içinde kendinle uyumlu hissettiğin bir davranışı yaz.",
+        "question": "Bu davranış değerlerimle uyuşuyor mu?"
+      },
+      "11": {
+        "title": "Fikirler",
+        "body": "Zihinde beliren fikirler ve imgeler teması. Bir fikrin değerli olması, hepsini uygulaman gerektiği anlamına gelmez.",
+        "practice": "Fikirlerini bir yerde topla; uygulama seçimini tip ve otorite bölümünle birlikte değerlendir.",
+        "question": "Bu fikir paylaşılmak mı, uygulanmak mı istiyor?"
+      },
+      "12": {
+        "title": "İfadenin zamanı",
+        "body": "Duygu ve sözün uygun zamanda buluşması teması. Bir şeyi ifade etmeyi istemekle uygun paylaşım alanının bulunması arasındaki farkı gözlemleyebilirsin.",
+        "practice": "Paylaşmak istediğin bir cümleyi yaz; uygun konuşma zamanını ayrıca seç.",
+        "question": "Şimdi ifade etmeye ve dinlenmeye alan var mı?"
+      },
+      "13": {
+        "title": "Dinlemek ve tanıklık",
+        "body": "Başkasının deneyimine kulak verme ve anlatılanı taşıma teması. Dinlemek, başkasının yükünü bütünüyle üstlenmek zorunda olmak değildir.",
+        "practice": "Dinlerken karşı tarafın paylaşım mı, çözüm mü istediğini sor.",
+        "question": "Gerçekten dinliyor muyum, hemen çözüm mü üretiyorum?"
+      },
+      "14": {
+        "title": "Kaynakları yönlendirmek",
+        "body": "Emek, beceri ve kaynakların bir yönde kullanılması teması. Bu yerleşim maddi başarı veya zenginlik garantisi vermez.",
+        "practice": "Kaynaklarını nereye ayırdığını ve hangi amaca hizmet ettiğini yaz.",
+        "question": "Emeğim anlamlı bulduğum yöne gidiyor mu?"
+      },
+      "15": {
+        "title": "Farklı ritimlere alan",
+        "body": "İnsanların ve yaşamın farklı tempolarına alan açma teması. Kendi ritminle çevrendekilerin ritmini aynı olmak zorunda görmeden inceleyebilirsin.",
+        "practice": "Bir ortak işte tempo farklarını açıkça konuş.",
+        "question": "Farklı bir ritme alan açarken kendi ihtiyacımı koruyor muyum?"
+      },
+      "16": {
+        "title": "Beceriyi geliştirmek",
+        "body": "Tekrar, uygulama ve beceri edinme teması. Heves ile yeterlilik arasındaki mesafeyi küçük çalışmalara bölmek yardımcı olabilir.",
+        "practice": "Bir beceri için kısa ve düzenli bir uygulama planı yap.",
+        "question": "Hangi tekrar bana gerçek gelişim sağlıyor?"
+      },
+      "17": {
+        "title": "Görüş oluşturmak",
+        "body": "Bilgiyi bir görüş veya düzenli çerçeveye dönüştürme teması. Bir görüşü kesin olguyla karıştırmadan paylaşmayı gözlemleyebilirsin.",
+        "practice": "Görüşünün dayanaklarını ve değişebileceği koşulları yaz.",
+        "question": "Bu görüş hangi bilgiye dayanıyor?"
+      },
+      "18": {
+        "title": "İyileştirme",
+        "body": "Bir süreçte neyin daha iyi yapılabileceğini fark etme teması. Geri bildirimin yararı, karşı tarafın talebi ve somut değişiklik önerisiyle artabilir.",
+        "practice": "Bir eleştiriyi uygulanabilir bir öneriye dönüştür.",
+        "question": "Bu geri bildirim kime ve hangi konuda yarar sağlıyor?"
+      },
+      "19": {
+        "title": "İhtiyaçları fark etmek",
+        "body": "Kendinin ve çevrenin ihtiyaçlarına duyarlılık teması. Bir ihtiyacı fark etmekle onu tek başına karşılamak arasındaki sınırı gözlemleyebilirsin.",
+        "practice": "İhtiyacı, sorumluluğu ve sunabileceğin katkıyı ayır.",
+        "question": "Bu ihtiyaç kimin sorumluluğunda?"
+      },
+      "20": {
+        "title": "Şimdiki anın ifadesi",
+        "body": "İçinde bulunulan anı fark etmek ve dile getirmek teması. Anlık bir ifade, bütün koşulların değerlendirildiği bir karar olmak zorunda değildir.",
+        "practice": "Bir olayda gözlemlediğini, ona eklediğin yorumdan ayır.",
+        "question": "Şu anda gerçekten ne oluyor?"
+      },
+      "21": {
+        "title": "Yönetim ve sınırlar",
+        "body": "Kaynakları yönetme ve sorumluluk alanını belirleme teması. Kontrol etmeye çalıştığın alanla gerçekten yetkili olduğun alanı ayırabilirsin.",
+        "practice": "Bir sorumlulukta yetki ve hesap verme sınırlarını konuş.",
+        "question": "Burada neyi gerçekten yönetebilirim?"
+      },
+      "22": {
+        "title": "Sosyal açıklık",
+        "body": "Duygusal halin sosyal karşılaşmaya yansıması teması. İletişim için hazır olup olmadığını fark etmek bir gözlem alanıdır.",
+        "practice": "Bir görüşmeden önce nasıl bir katılıma hazır olduğunu ifade et.",
+        "question": "Bu karşılaşmaya şu anda ne kadar açık hissediyorum?"
+      },
+      "23": {
+        "title": "Karmaşık fikri sadeleştirmek",
+        "body": "Bir içgörüyü anlaşılır sözlere dönüştürme teması. Basit anlatım için dinleyenin bildiği noktayı dikkate alabilirsin.",
+        "practice": "Bir fikri teknik dil kullanmadan kısa bir örnekle anlat.",
+        "question": "Dinleyen kişi neyi anlamak için ek bağlama ihtiyaç duyuyor?"
+      },
+      "24": {
+        "title": "Geri dönüp düşünmek",
+        "body": "Bir düşünceye tekrar dönerek anlam arama teması. Yararlı yeniden değerlendirme ile aynı yerde dönmeyi ayırmayı gözlemleyebilirsin.",
+        "practice": "Yeni bilgi olmadan tekrar ettiğin düşünceye ara ver; neyin eksik olduğunu yaz.",
+        "question": "Bu tekrar yeni bir anlayış getiriyor mu?"
+      },
+      "25": {
+        "title": "Açık yüreklilik",
+        "body": "Deneyime önceden hüküm vermeden yaklaşma teması. Açıklıkla kişisel sınırları birlikte tutmak üzerine düşünebilirsin.",
+        "practice": "Bir kişiyi tek bir olayla tanımlamadan önce bağlamı dinle.",
+        "question": "Açık kalırken sınırlarımı da koruyor muyum?"
+      },
+      "26": {
+        "title": "İkna ve sunum",
+        "body": "Bir şeyi etkili biçimde sunma teması. Sunumun gücüyle doğruluk ve verilen sözün kapsamını birlikte değerlendirebilirsin.",
+        "practice": "Bir iddiayı paylaşırken kanıtını ve sınırını belirt.",
+        "question": "Anlatımım gerçek katkıyla örtüşüyor mu?"
+      },
+      "27": {
+        "title": "Bakım ve destek",
+        "body": "Beslemek, desteklemek ve sorumluluk alma teması. Başkasına bakım verirken kendi kapasiteni unutmayı gözlemleyebilirsin.",
+        "practice": "Sunabileceğin desteği süre ve kapsamıyla belirle.",
+        "question": "Destek verirken benim ihtiyacım da karşılanıyor mu?"
+      },
+      "28": {
+        "title": "Anlamlı mücadele",
+        "body": "Eforun anlamı ve ne uğruna mücadele edildiği teması. Her zorluk sürdürülmeye değer olmak zorunda değildir.",
+        "practice": "Bir zorluk için harcadığın emeğin hangi değere hizmet ettiğini yaz.",
+        "question": "Bu mücadeleyi anlamlı kılan ne?"
+      },
+      "29": {
+        "title": "Katılmak ve söz vermek",
+        "body": "Bir deneyime evet deme ve katılımı sürdürme teması. Her teklifi kabul etmekle gerçekten katılmak istemeyi ayırmak önem kazanır.",
+        "practice": "Bir evetten önce kapsamı ve sürdürebileceğin koşulları netleştir.",
+        "question": "Bu sözü hangi kapasiteyle veriyorum?"
+      },
+      "30": {
+        "title": "Arzu ve deneyim",
+        "body": "Bir deneyime yönelik arzu ve beklenti teması. İstemek ile sonucun nasıl olacağını kontrol etmek farklıdır.",
+        "practice": "Bir beklentinin yanında kontrol edemediğin koşulları da yaz.",
+        "question": "Deneyimi mi istiyorum, belirli bir sonucu mu?"
+      },
+      "31": {
+        "title": "Etkili yönlendirme",
+        "body": "Bir grubun duyduğu ve kabul ettiği yönlendirme teması. Sesini duyurmak ile ortak rıza oluşturmak arasındaki farkı gözlemleyebilirsin.",
+        "practice": "Bir yön önerirken dinleyenlerin görüşünü sor.",
+        "question": "Bu yönlendirme gerçekten karşılık buluyor mu?"
+      },
+      "32": {
+        "title": "Süreklilik",
+        "body": "Neyin korunup sürdürülebileceğini ayırt etme teması. Tanıdık bir düzeni korumakla işe yarayanı korumayı ayırabilirsin.",
+        "practice": "Bir yöntemin değerini bugünkü sonuçlarıyla değerlendir.",
+        "question": "Neyi korumak gerçekten yararlı?"
+      },
+      "33": {
+        "title": "Geri çekilme ve deneyimi sindirme",
+        "body": "Yaşananı anlamlandırmak için mesafe ve mahremiyet teması. Her deneyimi hemen anlatmak zorunda olmadığını hatırlatabilir.",
+        "practice": "Bir olaydan sonra paylaşmadan önce kendine düşünme zamanı ver.",
+        "question": "Bu deneyimi paylaşmaya hazır mıyım?"
+      },
+      "34": {
+        "title": "Güç ve uygulama",
+        "body": "Bir işe ayrılan güç ve doğrudan uygulama teması. Güçlü katılım isteği, işin uygunluğunu ve sonuçlarını tek başına belirlemez.",
+        "practice": "Eforunu hangi somut işe ayıracağını seç ve otorite bölümüne göre değerlendir.",
+        "question": "Bu güç gerçekten seçtiğim işe mi gidiyor?"
+      },
+      "35": {
+        "title": "Değişim ve yeni deneyim",
+        "body": "Yeni bir deneyime geçmek ve yaşanandan öğrenmek teması. Yenilik arzusuyla mevcut işi tamamlama ihtiyacını birlikte gözlemleyebilirsin.",
+        "practice": "Bir değişiklik öncesinde neyin eksik olduğunu somutlaştır.",
+        "question": "Değişim hangi ihtiyaca karşılık geliyor?"
+      },
+      "36": {
+        "title": "Belirsiz deneyimde öğrenmek",
+        "body": "Alışılmadık bir deneyimde duygusal yoğunluk ve öğrenme teması. Bu kapı bir kriz yaşanacağını öngörmez.",
+        "practice": "Yeni bir deneyimde destek, zaman ve gerçek beklentileri önceden konuş.",
+        "question": "Bu yeni durum için neye ihtiyacım var?"
+      },
+      "37": {
+        "title": "Karşılıklı destek",
+        "body": "Yakın çevrede sıcaklık, anlaşma ve karşılıklılık teması. Bağlılık ile üstlenilen yükün dengesini inceleyebilirsin.",
+        "practice": "Bir ortaklıkta verilen ve alınan desteği açıklaştır.",
+        "question": "Bu anlaşma karşılıklı mı?"
+      },
+      "38": {
+        "title": "Değer verdiğini savunmak",
+        "body": "Bir konunun uğruna durmaya değer olup olmadığını seçme teması. Karşı çıkmak tek başına bir amaç olmak zorunda değildir.",
+        "practice": "Savunduğun şeyin değerini bir cümlede ifade et.",
+        "question": "Bu itiraz hangi değeri koruyor?"
+      },
+      "39": {
+        "title": "Duygusal hareket yaratmak",
+        "body": "Bir sorunun veya karşılaşmanın duygusal bir şeyi görünür kılması teması. Başkasının sınırlarını zorlamak bu temanın zorunlu bir davranışı değildir.",
+        "practice": "Zor bir konuyu açarken konuşmaya rıza ve uygun zaman iste.",
+        "question": "Bu soru açıklık mı getiriyor, gereksiz gerilim mi?"
+      },
+      "40": {
+        "title": "Emek ve dinlenme",
+        "body": "Sorumluluk üstlenme ile kendi zamanına çekilme teması. Bir katkının bedelini ve toparlanma ihtiyacını açık konuşabilirsin.",
+        "practice": "Bir işin karşılığını ve sonrasındaki dinlenme alanını belirle.",
+        "question": "Verdiğim emeğin yanında dinlenmeye de yer var mı?"
+      },
+      "41": {
+        "title": "Olasılığı hayal etmek",
+        "body": "Bir deneyimin başlamasına yönelik hayal ve istek teması. Hayal kurmakla gerçek kapasiteyi planlamak birlikte ele alınabilir.",
+        "practice": "Bir hayalden bugün uygulanabilir tek bir küçük adım seç.",
+        "question": "Bu olasılığın ilk gerçek adımı ne?"
+      },
+      "42": {
+        "title": "Süreci tamamlamak",
+        "body": "Bir döngünün gelişmesi ve uygun noktada tamamlanması teması. Sürdürme ile bitirme arasındaki ölçütleri gözlemleyebilirsin.",
+        "practice": "Bir proje için tamamlanmış sayılma koşulunu yaz.",
+        "question": "Bu döngü hangi noktada tamamlanmış olur?"
+      },
+      "43": {
+        "title": "İçgörü",
+        "body": "Bir konuyu farklı biçimde görme teması. Bir içgörünün sana anlaşılır gelmesi, başkasının bağlamı bildiği anlamına gelmez.",
+        "practice": "Yeni fark ettiğin şeyi önce bir örnekle sınayıp anlat.",
+        "question": "Bu içgörüyü nasıl anlaşılır kılabilirim?"
+      },
+      "44": {
+        "title": "Örüntüyü fark etmek",
+        "body": "Geçmiş deneyimlerden bir örüntüyü tanıma teması. Benzerlik fark etmek, aynı sonucun kesinlikle tekrarlanacağı anlamına gelmez.",
+        "practice": "Bir benzerliğin yanına bugünkü koşullardaki farkları da yaz.",
+        "question": "Gerçek bir örüntü mü görüyorum, eski deneyimi mi yansıtıyorum?"
+      },
+      "45": {
+        "title": "Ortak kaynak",
+        "body": "Bir topluluğun kaynaklarını paylaşma ve düzenleme teması. Kaynak üzerinde söz sahibi olmakla şeffaflık ve ortak sorumluluk birlikte ele alınabilir.",
+        "practice": "Ortak bir kaynak için kullanım ve paylaşım koşullarını açıklaştır.",
+        "question": "Kaynaklar kimin ihtiyacına göre dağıtılıyor?"
+      },
+      "46": {
+        "title": "Deneyime katılmak",
+        "body": "Yaşamı bedensel deneyim içinde keşfetme teması. Bu sembolik tema bedensel özellik veya sağlık sonucu çıkarmaz.",
+        "practice": "Bir deneyimde yalnız sonucu değil süreçte fark ettiklerini de kaydet.",
+        "question": "Bu deneyimde gerçekten bulunabiliyor muyum?"
+      },
+      "47": {
+        "title": "Yaşananı anlamlandırmak",
+        "body": "Geçmişte dağınık görünen izlenimleri bir anlayışa dönüştürme teması. Her anıya hemen bir anlam bulmak zorunda değilsin.",
+        "practice": "Bir olayın gözlemlerini yaz; anlamını daha sonra yeniden değerlendir.",
+        "question": "Anlam henüz oluşmadıysa buna alan açabilir miyim?"
+      },
+      "48": {
+        "title": "Derinlik",
+        "body": "Bir konuda derine inme ve yeterli bir çözüm arama teması. Yetersizlik hissiyle gerçekten eksik olan bilgi arasındaki farkı inceleyebilirsin.",
+        "practice": "Bildiğin, çalışman gereken ve yardım alabileceğin alanları ayır.",
+        "question": "Yeterli olmak için hangi bilgi gerçekten eksik?"
+      },
+      "49": {
+        "title": "İlkeler ve kabul sınırı",
+        "body": "Bir ilişki veya düzende hangi koşulların kabul edilebilir olduğu teması. İlkeyi açıkça söylemek, sonradan biriken beklentiyi azaltabilir.",
+        "practice": "Önemli bir ilişkide vazgeçilmez sınırlarını konuş.",
+        "question": "Bu ilke herkes tarafından anlaşılıyor mu?"
+      },
+      "50": {
+        "title": "Değerler ve sorumluluk",
+        "body": "Bir topluluğu koruyan değerler ve sorumluluk teması. Kendi değerlerinle devraldığın kuralları ayırmayı gözlemleyebilirsin.",
+        "practice": "Bir kuralın hangi ihtiyacı koruduğunu ve bugün işe yarayıp yaramadığını yaz.",
+        "question": "Bu sorumluluğu bilinçli olarak mı üstleniyorum?"
+      },
+      "51": {
+        "title": "Sarsıcı başlangıç",
+        "body": "Alışılmış bir çerçevenin dışına çıkma ve kendini sınama teması. Bu kapı kaza veya beklenmedik olay öngörmez.",
+        "practice": "Bir meydan okumada isteğini ve gerçek koşulları ayrı değerlendir.",
+        "question": "Bu deneme benim için anlamlı mı, yalnızca kendimi ispat mı?"
+      },
+      "52": {
+        "title": "Durmak ve yoğunlaşmak",
+        "body": "Hareketsizlik içinde dikkati bir noktada tutma teması. Durmak, hiçbir şey yapmamakla aynı deneyim olmayabilir.",
+        "practice": "Bir işe başlamadan önce kısa bir odaklanma alanı oluştur.",
+        "question": "Bu duraklama dikkatim için ne sağlıyor?"
+      },
+      "53": {
+        "title": "Bir döngüyü başlatmak",
+        "body": "Yeni bir gelişim sürecinin başlangıcı teması. Başlama isteğini sürdürebilecek koşullarla birlikte değerlendirebilirsin.",
+        "practice": "Yeni bir işin ilk adımı kadar devam kaynaklarını da planla.",
+        "question": "Başlattığım şeyi geliştirmek için alan var mı?"
+      },
+      "54": {
+        "title": "Gelişme isteği",
+        "body": "İlerleme ve emek yoluyla koşulları dönüştürme teması. Harita statü veya başarı garantisi vermez.",
+        "practice": "İlerleme hedefini kendi değerlerinle ve gerçek bir ölçütle tanımla.",
+        "question": "İlerlemek benim için ne demek?"
+      },
+      "55": {
+        "title": "Duygusal anlam ve bolluk hissi",
+        "body": "Deneyimin duygu haline göre anlam kazanması teması. Bolluk burada bir maddi sonuç tahmini değildir.",
+        "practice": "Benzer bir olayı farklı duygu hallerinde nasıl yorumladığını kaydet.",
+        "question": "Bugünkü duygu halim neyi görmemi kolaylaştırıyor veya zorlaştırıyor?"
+      },
+      "56": {
+        "title": "Deneyimi anlatmak",
+        "body": "Bir yaşantıyı hikâye ve anlatı yoluyla paylaşma teması. Anlatılan örnek ile herkes için geçerli bir kural arasındaki farkı belirtmek yararlı olabilir.",
+        "practice": "Bir deneyimi anlatırken ne yaşandığını ve ne öğrendiğini ayır.",
+        "question": "Bu hikâye hangi deneyimi görünür kılıyor?"
+      },
+      "57": {
+        "title": "İnce farkındalık",
+        "body": "Bulunulan andaki ince işaretleri fark etme teması. Bir izlenimin doğruluğunu harita tek başına doğrulamaz.",
+        "practice": "Fark ettiğin işareti somut koşullarla karşılaştır.",
+        "question": "Şu anda dikkatimi çeken somut işaret ne?"
+      },
+      "58": {
+        "title": "Canlılık ve iyileştirme isteği",
+        "body": "Bir şeyi daha iyi hale getirme isteği teması. Geliştirme hevesinin kendine ve başkalarına sürekli eleştiri olarak yansımasını gözlemleyebilirsin.",
+        "practice": "Bir iyileştirme önerisinin yanında zaten çalışan kısmı da belirt.",
+        "question": "Bu gelişim isteği nerede yararlı bir katkıya dönüşüyor?"
+      },
+      "59": {
+        "title": "Yakınlaşma",
+        "body": "İnsanlar arasındaki mesafeyi azaltma ve yakınlık kurma teması. Bu tema cinsel davranış veya ilişki sonucunu belirlemez; karşılıklı rıza ve sınırlar esastır.",
+        "practice": "Yakınlık istediğinde karşı tarafın isteğini ve sınırını sor.",
+        "question": "Bu yakınlaşma iki taraf için de uygun mu?"
+      },
+      "60": {
+        "title": "Sınır içinde yenilik",
+        "body": "Koşulların sınırlarını kabul ederek değişime alan açma teması. Her sınır engel olmak zorunda değildir; bazıları uygulanabilir bir çerçeve sağlar.",
+        "practice": "Değiştirebildiğin ve şu anda değiştiremediğin koşulları ayır.",
+        "question": "Bu çerçevede hangi küçük değişiklik mümkün?"
+      },
+      "61": {
+        "title": "İçsel soru",
+        "body": "Bir şeyin özünü veya nedenini anlama isteği teması. Her sorunun kesin bir cevabı olacağı varsayımını inceleyebilirsin.",
+        "practice": "Bir büyük soruya cevap aramak kadar cevaplanmamış haliyle durmaya da alan ver.",
+        "question": "Bu soru merakımı mı besliyor, baskımı mı artırıyor?"
+      },
+      "62": {
+        "title": "Ayrıntılı anlatım",
+        "body": "Bir düşünceyi somut ayrıntılarla açıklama teması. Dinleyenin ihtiyacına göre ayrıntı miktarını seçebilirsin.",
+        "practice": "Bir açıklamayı önce ana fikir, sonra gerekli ayrıntı şeklinde düzenle.",
+        "question": "Hangi ayrıntı anlaşılmayı gerçekten kolaylaştırıyor?"
+      },
+      "63": {
+        "title": "Sorgulama",
+        "body": "Bir açıklamayı soru ve karşılaştırmayla sınama teması. Şüpheyi belirli bir soruya dönüştürmek, sürekli belirsizlikten daha yararlı olabilir.",
+        "practice": "Bir şüphe için hangi kanıtın yeterli olacağını belirle.",
+        "question": "Bu şüpheyi hangi bilgiyle sınayabilirim?"
+      },
+      "64": {
+        "title": "Dağınık izlenimler",
+        "body": "Henüz anlamı oluşmamış anı ve imgeler teması. Dağınık izlenimlerden hemen bir sonuç çıkarmadan beklemeyi gözlemleyebilirsin.",
+        "practice": "İzlenimlerini yorumlamadan yaz ve bir süre sonra yeniden oku.",
+        "question": "Bütün parçaları hemen birleştirmem gerekiyor mu?"
+      }
+    },
+    "en": {
+      "1": {
+        "title": "Creative expression",
+        "body": "Finding your own way to express an idea. Notice whether making space for the creative process matters as much as having the result appreciated.",
+        "practice": "Make something for yourself before evaluating how it will be received.",
+        "question": "Can I recognize my own voice in this expression?"
+      },
+      "2": {
+        "title": "Direction and receptivity",
+        "body": "Listening for a direction and bringing resources into alignment with it. Explore what you are receptive to without needing to control every part of the process.",
+        "practice": "Write down a direction and the resources that could support it separately.",
+        "question": "Does this direction feel meaningful to me?"
+      },
+      "3": {
+        "title": "A new order taking shape",
+        "body": "Something initially unsettled gradually finding a workable structure. The first attempt does not have to be perfect for a process to develop.",
+        "practice": "Break a beginning into small steps and identify what the first step needs.",
+        "question": "What am I expecting from a process that is still taking shape?"
+      },
+      "4": {
+        "title": "Answers and explanations",
+        "body": "Creating an understandable explanation for a question. Distinguish an answer that sounds plausible from one that has actually been tested.",
+        "practice": "Identify the evidence and assumptions behind an explanation.",
+        "question": "Which question does this answer really address?"
+      },
+      "5": {
+        "title": "Rhythm",
+        "body": "Recurring habits and daily rhythms. Observe when a routine supports you and when it becomes unnecessarily rigid.",
+        "practice": "Keep notes on your work and rest rhythms for a week.",
+        "question": "Which routines support me?"
+      },
+      "6": {
+        "title": "Boundaries in closeness",
+        "body": "Boundaries and interaction in emotional intimacy. Being close to someone does not require being available for everything.",
+        "practice": "Describe the boundaries that help you feel comfortable in a relationship.",
+        "question": "Are my boundaries visible when I become close to someone?"
+      },
+      "7": {
+        "title": "A shared direction",
+        "body": "Contributing to the direction of a group. Offering a direction and deciding on behalf of everyone are different actions.",
+        "practice": "Clarify who has a voice in each decision around a shared goal.",
+        "question": "Are we choosing this direction together?"
+      },
+      "8": {
+        "title": "Sharing a contribution",
+        "body": "Making an individual contribution visible. Name what you bring rather than assuming you must follow someone else's method.",
+        "practice": "Describe the specific difference your contribution makes.",
+        "question": "What is my contribution here?"
+      },
+      "9": {
+        "title": "Attention to detail",
+        "body": "Directing attention toward a small part of a task. Notice whether the detail continues to serve the purpose of the whole.",
+        "practice": "Choose one subtask and define what completing it would mean.",
+        "question": "Does this detail serve the bigger purpose?"
+      },
+      "10": {
+        "title": "Behavior aligned with yourself",
+        "body": "Acting in accordance with your own values. Observe whether meeting an expectation leaves room for your own stance.",
+        "practice": "Record a behavior that felt aligned with your values today.",
+        "question": "Does this action reflect my values?"
+      },
+      "11": {
+        "title": "Ideas",
+        "body": "Ideas and images arising in the mind. An idea can be valuable without becoming something you must carry out.",
+        "practice": "Collect your ideas, then use your type and authority sections when considering an action.",
+        "question": "Is this an idea to share or an action to take?"
+      },
+      "12": {
+        "title": "The timing of expression",
+        "body": "Finding a suitable moment for feeling and words to meet. Wanting to speak and having a receptive space are not always the same.",
+        "practice": "Write what you want to express, then consider the timing separately.",
+        "question": "Is there room to speak and listen now?"
+      },
+      "13": {
+        "title": "Listening and witnessing",
+        "body": "Listening to another person's experience and holding what is shared. Listening does not require taking on their entire burden.",
+        "practice": "Ask whether the person wants to be heard or wants help finding a solution.",
+        "question": "Am I listening or rushing to solve something?"
+      },
+      "14": {
+        "title": "Directing resources",
+        "body": "Putting effort, skills and resources toward a direction. This placement does not promise wealth or financial success.",
+        "practice": "Write where your resources go and what purpose they support.",
+        "question": "Is my effort going toward a direction I value?"
+      },
+      "15": {
+        "title": "Room for different rhythms",
+        "body": "Allowing for different human tempos. Explore your own rhythm without assuming it must match the rhythm of everyone around you.",
+        "practice": "Discuss differences in pace when working with someone.",
+        "question": "Can I make room for another rhythm while respecting my own needs?"
+      },
+      "16": {
+        "title": "Developing skill",
+        "body": "Practice, repetition and learning a skill. Break the distance between enthusiasm and competence into manageable steps.",
+        "practice": "Create a short, regular practice for one skill.",
+        "question": "Which kind of practice actually helps me improve?"
+      },
+      "17": {
+        "title": "Forming a view",
+        "body": "Organizing information into a perspective or framework. Share a view without presenting it as an established fact.",
+        "practice": "Write the basis of your view and what could change it.",
+        "question": "What information supports this opinion?"
+      },
+      "18": {
+        "title": "Improvement",
+        "body": "Noticing what could work better in a process. Feedback is more useful when it is wanted and includes a concrete suggestion.",
+        "practice": "Turn one criticism into an actionable suggestion.",
+        "question": "Who benefits from this feedback, and how?"
+      },
+      "19": {
+        "title": "Recognizing needs",
+        "body": "Sensitivity to your own needs and those around you. Recognizing a need and being solely responsible for meeting it are different things.",
+        "practice": "Separate the need, the responsibility and the contribution you can offer.",
+        "question": "Whose responsibility is this need?"
+      },
+      "20": {
+        "title": "Expressing the present moment",
+        "body": "Noticing and expressing what is happening now. An immediate expression is not necessarily a decision that accounts for every relevant condition.",
+        "practice": "Separate what you observed from the interpretation you added.",
+        "question": "What is actually happening right now?"
+      },
+      "21": {
+        "title": "Management and boundaries",
+        "body": "Managing resources and defining responsibility. Distinguish the area you want to control from the area in which you have actual authority.",
+        "practice": "Clarify the authority and accountability attached to a responsibility.",
+        "question": "What can I genuinely manage here?"
+      },
+      "22": {
+        "title": "Social openness",
+        "body": "The way an emotional state enters a social encounter. Notice whether you feel ready for the kind of interaction being offered.",
+        "practice": "Express what kind of participation you are ready for before a meeting.",
+        "question": "How open do I feel to this encounter now?"
+      },
+      "23": {
+        "title": "Making a complex idea clear",
+        "body": "Turning an insight into understandable words. Take into account what the listener already knows.",
+        "practice": "Explain an idea using a short example without specialist language.",
+        "question": "What context does the listener need?"
+      },
+      "24": {
+        "title": "Returning to a thought",
+        "body": "Revisiting a thought in search of understanding. Distinguish useful reconsideration from repeatedly circling the same point.",
+        "practice": "Pause a thought that repeats without new information and name what is missing.",
+        "question": "Is this repetition bringing a new understanding?"
+      },
+      "25": {
+        "title": "Open-heartedness",
+        "body": "Meeting an experience without deciding what it means in advance. Openness can coexist with personal boundaries.",
+        "practice": "Listen to the context before defining a person by a single incident.",
+        "question": "Can I stay open while keeping my boundaries?"
+      },
+      "26": {
+        "title": "Persuasion and presentation",
+        "body": "Presenting something effectively. Consider the strength of the presentation alongside accuracy and the scope of what is promised.",
+        "practice": "State the evidence and limits behind a claim.",
+        "question": "Does my presentation match the actual contribution?"
+      },
+      "27": {
+        "title": "Care and support",
+        "body": "Nurturing, supporting and taking responsibility. Notice whether caring for someone else leaves room for your own capacity.",
+        "practice": "Define the scope and duration of the support you can provide.",
+        "question": "Are my needs also met while I give support?"
+      },
+      "28": {
+        "title": "Meaningful effort",
+        "body": "Considering what makes a struggle worth the effort. Not every difficulty has to become something you continue indefinitely.",
+        "practice": "Write which value an effort serves and what it costs.",
+        "question": "What makes this struggle meaningful?"
+      },
+      "29": {
+        "title": "Participation and commitment",
+        "body": "Saying yes to an experience and sustaining your participation. Separate accepting every offer from wanting to participate.",
+        "practice": "Clarify the scope and conditions you can sustain before committing.",
+        "question": "What capacity supports this commitment?"
+      },
+      "30": {
+        "title": "Desire and experience",
+        "body": "Desire for an experience and expectations about it. Wanting something and controlling its outcome are different things.",
+        "practice": "Write what you expect alongside the conditions you cannot control.",
+        "question": "Do I want the experience or a particular outcome?"
+      },
+      "31": {
+        "title": "Influence and direction",
+        "body": "A direction that a group hears and accepts. Distinguish making yourself heard from building shared agreement.",
+        "practice": "Invite the group's perspective when suggesting a direction.",
+        "question": "Is this guidance genuinely being received?"
+      },
+      "32": {
+        "title": "Continuity",
+        "body": "Recognizing what can be preserved and sustained. Keeping something familiar and keeping something useful are not necessarily the same.",
+        "practice": "Evaluate a method against its current results.",
+        "question": "What is genuinely worth preserving?"
+      },
+      "33": {
+        "title": "Retreat and reflection",
+        "body": "Distance and privacy for processing an experience. You do not have to share every experience immediately.",
+        "practice": "Give yourself time to reflect before telling a story.",
+        "question": "Am I ready to share this experience?"
+      },
+      "34": {
+        "title": "Power and application",
+        "body": "Effort directed toward a task and its practical application. A strong desire to act does not by itself establish suitability or consequences.",
+        "practice": "Choose a concrete task for your effort and consult your authority section.",
+        "question": "Is this energy going toward a task I actually chose?"
+      },
+      "35": {
+        "title": "Change and new experience",
+        "body": "Moving toward a new experience and learning from it. Notice how a wish for novelty relates to completing an existing process.",
+        "practice": "Name the unmet need before making a change.",
+        "question": "Which need does this change address?"
+      },
+      "36": {
+        "title": "Learning in unfamiliar experience",
+        "body": "Learning amid the emotional intensity of an unfamiliar situation. This gate does not predict a crisis.",
+        "practice": "Discuss support, time and realistic expectations before a new experience.",
+        "question": "What do I need for this unfamiliar situation?"
+      },
+      "37": {
+        "title": "Mutual support",
+        "body": "Warmth, agreement and reciprocity in close relationships. Consider the balance between belonging and the load you take on.",
+        "practice": "Clarify what support is given and received in a partnership.",
+        "question": "Is this agreement reciprocal?"
+      },
+      "38": {
+        "title": "Standing for a value",
+        "body": "Choosing whether a cause is worth standing for. Opposition does not have to become an end in itself.",
+        "practice": "Describe the value you are defending in one sentence.",
+        "question": "Which value does this objection protect?"
+      },
+      "39": {
+        "title": "Bringing feelings into view",
+        "body": "A question or encounter bringing something emotional into view. Pushing another person's boundaries is not a required expression of this theme.",
+        "practice": "Ask for a suitable time and willingness before opening a difficult topic.",
+        "question": "Does this question bring clarity or unnecessary tension?"
+      },
+      "40": {
+        "title": "Work and rest",
+        "body": "Taking on responsibility while also needing time of your own. Speak openly about the effort involved and your need to recover.",
+        "practice": "Define the exchange around a task and the rest that follows it.",
+        "question": "Is there room for rest alongside my contribution?"
+      },
+      "41": {
+        "title": "Imagining a possibility",
+        "body": "Imagining an experience and wanting it to begin. Consider the possibility alongside the capacity required to pursue it.",
+        "practice": "Choose one small practical step from a larger possibility.",
+        "question": "What is the first real step toward this possibility?"
+      },
+      "42": {
+        "title": "Completing a process",
+        "body": "The development and completion of a cycle. Explore the criteria that help distinguish continuing a process from finishing it.",
+        "practice": "Define when a project can reasonably be considered complete.",
+        "question": "At what point is this cycle complete?"
+      },
+      "43": {
+        "title": "Insight",
+        "body": "Seeing something from a different angle. An insight that is clear to you may require context before someone else can understand it.",
+        "practice": "Test a new insight with an example before explaining it.",
+        "question": "How can I make this insight understandable?"
+      },
+      "44": {
+        "title": "Recognizing a pattern",
+        "body": "Recognizing a pattern from past experience. A similarity does not guarantee that the same result will happen again.",
+        "practice": "Write the differences in today's conditions alongside a familiar pattern.",
+        "question": "Am I seeing a pattern or projecting a past experience?"
+      },
+      "45": {
+        "title": "Shared resources",
+        "body": "Organizing and sharing the resources of a group. Having influence over resources can be considered alongside transparency and shared responsibility.",
+        "practice": "Clarify how a shared resource is used and distributed.",
+        "question": "Whose needs guide the allocation of these resources?"
+      },
+      "46": {
+        "title": "Participating in experience",
+        "body": "Discovering life through embodied experience. This symbolic theme does not determine physical characteristics or health outcomes.",
+        "practice": "Record what you noticed during an experience as well as its result.",
+        "question": "Can I be present in this experience?"
+      },
+      "47": {
+        "title": "Making sense of experience",
+        "body": "Bringing scattered impressions of the past into an understanding. You do not have to assign a meaning to every memory immediately.",
+        "practice": "Write your observations and reconsider their meaning later.",
+        "question": "Can I make room for meaning that has not yet formed?"
+      },
+      "48": {
+        "title": "Depth",
+        "body": "Going deeply into a subject in search of an adequate solution. Distinguish a feeling of inadequacy from information that is genuinely missing.",
+        "practice": "Separate what you know, what needs practice and where you can seek help.",
+        "question": "Which information is actually missing?"
+      },
+      "49": {
+        "title": "Principles and acceptance",
+        "body": "The conditions you accept in a relationship or arrangement. Stating a principle clearly can help prevent unspoken expectations from building up.",
+        "practice": "Discuss important boundaries in a relationship.",
+        "question": "Is this principle understood by everyone involved?"
+      },
+      "50": {
+        "title": "Values and responsibility",
+        "body": "Values and responsibilities that help protect a community. Distinguish your chosen values from rules you have inherited.",
+        "practice": "Ask what need a rule protects and whether it still serves that need.",
+        "question": "Am I choosing this responsibility consciously?"
+      },
+      "51": {
+        "title": "An unfamiliar beginning",
+        "body": "Stepping beyond an established frame and testing yourself. This gate does not predict accidents or unexpected events.",
+        "practice": "Consider your wish for a challenge alongside the actual conditions.",
+        "question": "Is this challenge meaningful or mainly a way to prove myself?"
+      },
+      "52": {
+        "title": "Stillness and concentration",
+        "body": "Holding attention while remaining still. Pausing can be a different experience from doing nothing.",
+        "practice": "Create a short space for concentration before a task.",
+        "question": "What does this pause offer my attention?"
+      },
+      "53": {
+        "title": "Beginning a cycle",
+        "body": "Starting a process of development. Consider the wish to begin alongside the conditions that support its continuation.",
+        "practice": "Plan the resources for continuing a task as well as its first step.",
+        "question": "Is there room to develop what I am starting?"
+      },
+      "54": {
+        "title": "A wish to develop",
+        "body": "Progress and changing circumstances through effort. This chart does not guarantee status or success.",
+        "practice": "Define progress through your own values and a realistic measure.",
+        "question": "What does progress mean to me?"
+      },
+      "55": {
+        "title": "Emotional meaning and abundance",
+        "body": "The meaning of an experience changing with emotional states. Abundance here is a symbolic theme, not a prediction of material results.",
+        "practice": "Record how you interpret a similar event in different emotional states.",
+        "question": "What does today's emotional state make easier or harder to notice?"
+      },
+      "56": {
+        "title": "Telling an experience",
+        "body": "Sharing a lived experience through a story. Distinguish an example from a rule that is supposed to apply to everyone.",
+        "practice": "Separate what happened from what you learned when telling a story.",
+        "question": "Which experience does this story make visible?"
+      },
+      "57": {
+        "title": "Subtle awareness",
+        "body": "Noticing subtle signals in the present situation. A chart does not by itself establish that an impression is correct.",
+        "practice": "Compare the signal you noticed with the concrete circumstances.",
+        "question": "Which observable signal has my attention now?"
+      },
+      "58": {
+        "title": "Vitality and improvement",
+        "body": "Wanting to make something work better. Notice when enthusiasm for improvement becomes ongoing criticism of yourself or others.",
+        "practice": "Name what already works alongside one improvement suggestion.",
+        "question": "Where can this wish to improve become a useful contribution?"
+      },
+      "59": {
+        "title": "Closeness",
+        "body": "Reducing distance and building closeness with people. This theme does not determine sexual behavior or relationship outcomes; mutual consent and boundaries remain essential.",
+        "practice": "Ask about the other person's wishes and boundaries when seeking closeness.",
+        "question": "Is this closeness suitable for both people?"
+      },
+      "60": {
+        "title": "Change within limits",
+        "body": "Making room for change while acknowledging the limits of a situation. Some boundaries provide a workable frame rather than simply preventing movement.",
+        "practice": "Separate what you can change from what you cannot currently change.",
+        "question": "Which small change is possible within these conditions?"
+      },
+      "61": {
+        "title": "An inner question",
+        "body": "Wanting to understand the essence or reason behind something. Explore the assumption that every question must have a definite answer.",
+        "practice": "Allow space for an unanswered question as well as the search for an answer.",
+        "question": "Does this question nourish curiosity or increase pressure?"
+      },
+      "62": {
+        "title": "Detailed expression",
+        "body": "Explaining a thought through specific details. Choose the amount of detail with the listener's needs in mind.",
+        "practice": "Organize an explanation as a main idea followed by necessary details.",
+        "question": "Which detail genuinely helps understanding?"
+      },
+      "63": {
+        "title": "Questioning",
+        "body": "Testing an explanation through questions and comparison. Turning doubt into a specific question can be more useful than indefinite uncertainty.",
+        "practice": "Identify what evidence would be enough to test one doubt.",
+        "question": "Which information would help me test this doubt?"
+      },
+      "64": {
+        "title": "Scattered impressions",
+        "body": "Memories and images whose meaning has not yet formed. Notice whether you can let the pieces remain unsettled before drawing a conclusion.",
+        "practice": "Write impressions without interpreting them and return to them later.",
+        "question": "Do I have to connect every piece immediately?"
+      }
+    }
+  },
+  "channelThemes": {
+    "tr": {
+      "1-8": {
+        "title": "Yaratıcı katkı",
+        "body": "Yaratıcı ifade ile katkıyı paylaşma temalarının bağlantısı. Özgün bir iş üretmek ve o işi uygun bir ortamda görünür kılmak üzerine düşünülebilir.",
+        "practice": "Bir çalışmanın sana özgü katkısını anlat ve paylaşılacak ortamı seç.",
+        "question": "Kendi ifade biçimim nerede karşılık buluyor?"
+      },
+      "2-14": {
+        "title": "Yön ve kaynak",
+        "body": "Bir yönü bulma ile kaynak ayırma temalarının bağlantısı. Hedefin anlamı ve emeğin nereye gittiği birlikte incelenebilir.",
+        "practice": "Bir hedefin yanına zaman, beceri ve destek kaynaklarını yaz.",
+        "question": "Kaynaklarım seçtiğim yönü destekliyor mu?"
+      },
+      "3-60": {
+        "title": "Değişim ve yeni düzen",
+        "body": "Yeni bir düzene geçiş ile mevcut sınırlar bağlantısı. Bir değişimin önce düzensiz başlayıp aşamalarla oluşması üzerine düşünülebilir; sürekli yenilik üretme zorunluluğu yoktur.",
+        "practice": "Bir yeniliği küçük denemelerle geliştir ve sınırlarını belirt.",
+        "question": "Değişim için hangi koşulun oluşması gerekiyor?"
+      },
+      "4-63": {
+        "title": "Soru ve mantıksal açıklama",
+        "body": "Sorgulama ile cevap oluşturma temalarının bağlantısı. Bir hipotezi açıkça kurup kanıtla sınamak için kullanılabilir.",
+        "practice": "Bir soruyu, olası cevabı ve sınama yöntemini ayrı yaz.",
+        "question": "Bu cevap hangi sınamadan geçti?"
+      },
+      "5-15": {
+        "title": "Ritim ve farklı tempolar",
+        "body": "Kişisel rutin ile farklı yaşam ritimlerine alan açma bağlantısı. Bir ortak düzende tempo farklarını konuşmak gözlem alanı olabilir.",
+        "practice": "Kendi ritmini başkasının temposuyla karşılaştırmadan tarif et.",
+        "question": "Bu düzende farklı ritimler bir arada yaşayabiliyor mu?"
+      },
+      "6-59": {
+        "title": "Yakınlık ve sınırlar",
+        "body": "Yakınlaşma ile duygusal sınır temalarının bağlantısı. Yakın ilişkinin niteliğini karşılıklı açıklık, rıza ve zaman üzerinden gözlemleyebilirsin; doğurganlık veya ilişki geleceği sonucu çıkarılmaz.",
+        "practice": "Yakınlığı ve kişisel alan ihtiyacını birlikte konuş.",
+        "question": "Yakınlıkta iki tarafın sınırları da görünür mü?"
+      },
+      "7-31": {
+        "title": "Ortak yön ve liderlik",
+        "body": "Grubun yönü ile duyulan yönlendirme bağlantısı. Liderlik unvanından çok önerinin ortak hedefle ve katılımla ilişkisi ele alınabilir.",
+        "practice": "Bir yön önerisinde grubun katkısını ve karar alanlarını netleştir.",
+        "question": "Bu yön kimlerin katılımıyla oluşuyor?"
+      },
+      "9-52": {
+        "title": "Odak ve duraklama",
+        "body": "Ayrıntıya dikkat ile durabilme bağlantısı. Bir işe yoğunlaşmak için koşul oluşturma teması öne çıkar.",
+        "practice": "Dikkati bölen unsurları azalt ve tek bir bitirme ölçütü seç.",
+        "question": "Odaklanmam için hangi koşul gerekli?"
+      },
+      "10-20": {
+        "title": "Uyumlu ifadenin anı",
+        "body": "Kendinle uyumlu davranış ile şimdiki anın ifadesi bağlantısı. Söylediklerinin o anda kendi değerlerinle nasıl buluştuğunu gözlemleyebilirsin.",
+        "practice": "Bir ifadenin yanında onunla uyumlu bir davranış örneği yaz.",
+        "question": "Sözüm ile davranışım aynı yönü gösteriyor mu?"
+      },
+      "10-34": {
+        "title": "Kendi yönünde hareket",
+        "body": "Kişisel davranış ile uygulama gücü bağlantısı. Gücünü dış beklentiye göre değil, seçtiğin uğraşlarla nasıl ilişkilendirdiğini gözlemleyebilirsin.",
+        "practice": "Bir eforun kendi değerlerinle bağını yaz.",
+        "question": "Yaptığım şeyde kendi yönüm var mı?"
+      },
+      "10-57": {
+        "title": "Davranış ve anlık farkındalık",
+        "body": "Kendi tutumun ile içinde bulunulan anı fark etme bağlantısı. Somut bir karşılaşmada ilk fark edişin davranışına nasıl yansıdığını inceleyebilirsin.",
+        "practice": "Bir olayın ilk izlenimini ve davranışını yan yana kaydet.",
+        "question": "Fark ettiğim işarete nasıl karşılık verdim?"
+      },
+      "11-56": {
+        "title": "Fikir ve hikâye",
+        "body": "Fikirleri deneyim ve anlatı yoluyla paylaşma bağlantısı. Bir hikâyenin yeni bir bakış sunması ile kesin kanıt oluşturmasını ayırmak önemlidir.",
+        "practice": "Bir fikri anlaşılır bir örnekle paylaş; örneğin sınırını belirt.",
+        "question": "Bu anlatı dinleyene hangi bakışı açıyor?"
+      },
+      "12-22": {
+        "title": "Duygu ve uygun ifade",
+        "body": "Sosyal açıklık ile ifadenin zamanı bağlantısı. Duygusal deneyimin konuşmaya nasıl yansıdığını inceleyebilirsin. Bu kanal solar pleksusu tanımlar; karar yaklaşımı duygusal otorite bölümünden okunur.",
+        "practice": "Önemli bir konuşmada kendi hazır oluşunu ve dinleyenin alanını kontrol et.",
+        "question": "Söylemek istediğimi hangi koşulda daha açık anlatabilirim?"
+      },
+      "13-33": {
+        "title": "Dinlemek ve deneyimi paylaşmak",
+        "body": "Tanıklık ile geri çekilip deneyimi sindirme bağlantısı. Bir anlatıyı saklamak, anlamlandırmak ve uygun zamanda paylaşmak üzerine düşünülebilir.",
+        "practice": "Bir deneyimde sana ait olanı ve başka birinin mahremiyetini ayır.",
+        "question": "Bu hikâyeyi paylaşmak için uygun zaman ve izin var mı?"
+      },
+      "16-48": {
+        "title": "Derinlik ve beceri",
+        "body": "Derin bilgi ile uygulamayla gelişen beceri bağlantısı. Yeterlilik hissini somut çalışma ve geri bildirimle karşılaştırabilirsin.",
+        "practice": "Bir beceri için küçük bir uygulama ve geri bildirim döngüsü kur.",
+        "question": "Bilgimi uygulamada ne kadar kullanabiliyorum?"
+      },
+      "17-62": {
+        "title": "Görüşü ayrıntıyla anlatmak",
+        "body": "Bir çerçeve oluşturma ile ayrıntılı ifade bağlantısı. Açıklamanın tutarlılığını, kanıtını ve dinleyenin ihtiyacını birlikte inceleyebilirsin.",
+        "practice": "Bir görüşünü ana iddia ve üç dayanakla anlat.",
+        "question": "Ayrıntılarım görüşü anlaşılır mı kılıyor?"
+      },
+      "18-58": {
+        "title": "İyileştirme isteği",
+        "body": "Neyin düzeltilebileceğini fark etme ile geliştirme isteği bağlantısı. Eleştirinin zamanı, talep edilmesi ve uygulanabilirliği önem kazanabilir.",
+        "practice": "Bir süreçte çalışan kısmı ve tek bir iyileştirme önerisini birlikte belirt.",
+        "question": "Düzeltme isteğim somut bir yarar sağlıyor mu?"
+      },
+      "19-49": {
+        "title": "İhtiyaç ve ilke",
+        "body": "İhtiyaçlara duyarlılık ile kabul sınırları bağlantısı. Bir toplulukta kimin ihtiyacının görüldüğünü ve hangi anlaşmanın geçerli olduğunu inceleyebilirsin.",
+        "practice": "Bir ortaklıkta ihtiyacı, ilkeyi ve karşılıklı beklentiyi açıkça konuş.",
+        "question": "Bu düzenin ilkeleri ihtiyaçları gerçekten karşılıyor mu?"
+      },
+      "20-34": {
+        "title": "Anlık uygulama",
+        "body": "Şimdiki anın ifadesi ile uygulama gücü bağlantısı. Meşguliyet ile seçilmiş katkıyı ayırmak için kullanılabilir; kanal hızlı karar vermek zorunda olduğunu söylemez.",
+        "practice": "Yaptığın işin amacını kısa bir cümleyle belirle ve otorite bölümünü esas al.",
+        "question": "Şu an yaptığım şey seçtiğim amaca hizmet ediyor mu?"
+      },
+      "20-57": {
+        "title": "Anlık farkındalığın ifadesi",
+        "body": "İnce fark ediş ile o anda ifade etme bağlantısı. İlk izlenimini söylemeden önce bağlamı ve dinleyenin alanını gözetebilirsin.",
+        "practice": "Fark ettiğin işareti gözlem olarak anlat; kesin hükümle karıştırma.",
+        "question": "Söylediğim şey gözlem mi, yorum mu?"
+      },
+      "21-45": {
+        "title": "Ortak kaynağın yönetimi",
+        "body": "Kaynak üzerinde sorumluluk ile topluluk içinde paylaşım bağlantısı. Yönetimde yetki, katkı ve şeffaflık temaları birlikte ele alınabilir; maddi kazanç öngörülmez.",
+        "practice": "Ortak bir kaynakta karar ve paylaşım kurallarını yazılı hale getir.",
+        "question": "Yönetim sorumluluğu ve beklentiler açık mı?"
+      },
+      "23-43": {
+        "title": "İçgörüyü anlaşılır kılmak",
+        "body": "Farklı bir içgörü ile onu sade anlatma bağlantısı. Bir fikrin yeniliği kadar ne zaman ve nasıl paylaşılacağı da gözlemlenebilir.",
+        "practice": "Bir içgörüyü somut örnek ve kısa açıklamayla paylaş.",
+        "question": "Dinleyenin bağlamı bilmesi için ne gerekli?"
+      },
+      "24-61": {
+        "title": "Soruyu yeniden anlamlandırmak",
+        "body": "İçsel soru ile düşünceye geri dönme bağlantısı. Merakın yeni anlayış üretmesi ile aynı soruda sıkışmayı ayırmak bir gözlem alanıdır.",
+        "practice": "Yeni bir bilgi getirmeyen düşünceye ara ver; cevapsız kısmı belirt.",
+        "question": "Bu düşünme süreci bana ne ekledi?"
+      },
+      "25-51": {
+        "title": "Alışılmışın dışına çıkmak",
+        "body": "Açık yüreklilik ile kendini sınama bağlantısı. Yeni bir deneyimin seni nasıl değiştirdiğini gözlemleyebilirsin; beklenmedik olayların kehaneti değildir.",
+        "practice": "Bir denemenin amacını ve gerçek koşullarını açıklaştır.",
+        "question": "Bu adımda neyi keşfetmek istiyorum?"
+      },
+      "26-44": {
+        "title": "Örüntü ve etkili sunum",
+        "body": "Geçmiş örüntüleri tanıma ile ikna etme bağlantısı. Deneyimden öğrendiğini paylaşırken doğruluk ve verilen sözün sınırı birlikte incelenebilir.",
+        "practice": "Bir önerinin dayandığı deneyimi ve bugünkü farkları belirt.",
+        "question": "Sunduğum vaat gerçek kapasiteyle örtüşüyor mu?"
+      },
+      "27-50": {
+        "title": "Bakım ve sorumluluk",
+        "body": "Destek verme ile koruyucu değerler bağlantısı. Bakımın kime, hangi kapsamda ve ne kadar kapasiteyle sunulduğunu gözlemleyebilirsin.",
+        "practice": "Bir destek ilişkisinde sınırları ve diğer sorumluları konuş.",
+        "question": "Bakımın yükü adil paylaşılmış mı?"
+      },
+      "28-38": {
+        "title": "Anlamlı bir şeyi savunmak",
+        "body": "Mücadelede anlam arama ile değer verdiğini savunma bağlantısı. Her karşı çıkışın hangi amaca hizmet ettiğini inceleyebilirsin.",
+        "practice": "Bir mücadelenin değerini ve sürdürme maliyetini yan yana yaz.",
+        "question": "Bu çaba benim için neden anlamlı?"
+      },
+      "29-46": {
+        "title": "Katılım içinde keşif",
+        "body": "Bir deneyime evet deme ile o deneyimde bulunma bağlantısı. Sonuca tutunmadan deneyimden öğrenmek ve katılım koşullarını değerlendirmek öne çıkabilir.",
+        "practice": "Bir deneyime katılmadan önce kapsamı ve kapasiteni netleştir.",
+        "question": "Bu eveti gerçekten taşıyabilecek miyim?"
+      },
+      "30-41": {
+        "title": "Hayal ve deneyim arzusu",
+        "body": "Olasılığı hayal etme ile deneyimi isteme bağlantısı. Beklentiyle yaşanan gerçek deneyimi ayrı tutmak için kullanılabilir.",
+        "practice": "Hayal ettiğin sonuç ile yaşayabileceğin farklı sonuçları birlikte düşün.",
+        "question": "Sonuç değişirse deneyime yine de katılmak ister miyim?"
+      },
+      "32-54": {
+        "title": "Gelişim ve süreklilik",
+        "body": "İlerleme isteği ile neyin sürdürülebileceğini fark etme bağlantısı. Gelişimi korunan değerler ve gerçek koşullarla birlikte ele alabilirsin.",
+        "practice": "Bir ilerleme hedefinde korunması gereken şeyi belirle.",
+        "question": "Değişirken hangi değeri sürdürmek istiyorum?"
+      },
+      "34-57": {
+        "title": "Güç ve ince farkındalık",
+        "body": "Uygulama gücü ile anlık işaretleri fark etme bağlantısı. Bir uğraşta eforunla farkındalığının nasıl buluştuğunu gözlemleyebilirsin; sağlık veya güvenlik ölçümü yapılmaz.",
+        "practice": "Bir işte fark ettiğin işaretleri ve verdiğin karşılığı kaydet.",
+        "question": "Eforumu ayırırken bulunduğum koşulu da fark ediyor muyum?"
+      },
+      "35-36": {
+        "title": "Yeni deneyimden öğrenmek",
+        "body": "Değişim isteği ile alışılmadık deneyimde öğrenme bağlantısı. Yoğun bir deneyimi hemen genellemeden sindirmek önem kazanabilir.",
+        "practice": "Yeni bir durumun öncesindeki beklenti ile sonrasındaki öğrenmeyi karşılaştır.",
+        "question": "Bu deneyim gerçekten ne öğretti?"
+      },
+      "37-40": {
+        "title": "Anlaşma ve karşılıklılık",
+        "body": "Yakın çevrede destek ile emek ve dinlenme bağlantısı. Bir ilişkinin sözlü olmayan beklentilerini açık anlaşmalara dönüştürmek için kullanılabilir.",
+        "practice": "Ortak bir işte emek, karşılık ve kişisel zaman koşullarını konuş.",
+        "question": "Bu anlaşmada hem katkı hem dinlenme alanı var mı?"
+      },
+      "39-55": {
+        "title": "Duygusal anlamı görünür kılmak",
+        "body": "Duygusal hareket yaratma ile deneyime anlam verme bağlantısı. Duyguların bir karşılaşmayla nasıl değiştiğini gözlemleyebilirsin; başkasını zorlamak gerektiği sonucu çıkarılmaz.",
+        "practice": "Zor bir duygusal konuyu uygun zaman ve karşılıklı rızayla aç.",
+        "question": "Bu karşılaşma hangi duyguyu veya ihtiyacı görünür kıldı?"
+      },
+      "42-53": {
+        "title": "Başlangıç ve tamamlanma",
+        "body": "Bir döngüyü başlatma ile süreci tamamlama bağlantısı. Bir işin hangi aşamasında bulunduğunu ve bitirme koşullarını değerlendirebilirsin.",
+        "practice": "Bir projenin başlangıç, gelişme ve tamamlanma ölçütlerini yaz.",
+        "question": "Bu süreç hangi aşamada?"
+      },
+      "47-64": {
+        "title": "İzlenimlerden anlayışa",
+        "body": "Dağınık izlenimler ile yaşananı anlamlandırma bağlantısı. Geçmişi tek bir açıklamaya zorlamadan, zaman içinde beliren bağlantıları inceleyebilirsin.",
+        "practice": "Bir olayın parçalarını yorum katmadan kaydet ve sonra yeniden oku.",
+        "question": "Anlayışım yeni bilgiyle nasıl değişti?"
+      }
+    },
+    "en": {
+      "1-8": {
+        "title": "Creative contribution",
+        "body": "Creative expression meets the sharing of an individual contribution. Consider both making an original piece of work and finding a suitable context in which to share it.",
+        "practice": "Describe what makes your contribution individual and choose a setting for it.",
+        "question": "Where does my way of expressing myself find a response?"
+      },
+      "2-14": {
+        "title": "Direction and resources",
+        "body": "Finding a direction meets the allocation of resources. The meaning of a goal and where your effort goes can be considered together.",
+        "practice": "List the time, skills and support available for one goal.",
+        "question": "Do my resources support the direction I chose?"
+      },
+      "3-60": {
+        "title": "Change and a new order",
+        "body": "A new order taking shape meets the limits of current circumstances. A change may begin in an unsettled way and develop in stages; continuous innovation is not a requirement.",
+        "practice": "Develop a change through small experiments and name its limits.",
+        "question": "Which condition needs to develop before this change can proceed?"
+      },
+      "4-63": {
+        "title": "Questions and logical explanations",
+        "body": "Questioning meets the formation of an answer. Use this theme to frame a hypothesis clearly and test it against evidence.",
+        "practice": "Write a question, a possible answer and a way to test it separately.",
+        "question": "How has this answer been tested?"
+      },
+      "5-15": {
+        "title": "Rhythm and different tempos",
+        "body": "Personal routines meet room for different rhythms of life. Differences in pace within a shared arrangement can become a useful observation.",
+        "practice": "Describe your rhythm without treating someone else's pace as a standard.",
+        "question": "Can different rhythms coexist in this arrangement?"
+      },
+      "6-59": {
+        "title": "Closeness and boundaries",
+        "body": "Closeness meets emotional boundaries. Observe the quality of an intimate relationship through mutual openness, consent and timing; this is not a prediction of fertility or a relationship's future.",
+        "practice": "Discuss closeness alongside each person's need for space.",
+        "question": "Are both people's boundaries visible?"
+      },
+      "7-31": {
+        "title": "Shared direction and leadership",
+        "body": "A group's direction meets guidance that is heard. Consider the connection between a proposal, participation and the shared goal rather than relying on a leadership title.",
+        "practice": "Clarify the group's contribution and decision areas around a proposed direction.",
+        "question": "Whose participation shapes this direction?"
+      },
+      "9-52": {
+        "title": "Focus and stillness",
+        "body": "Attention to detail meets the ability to pause. Creating suitable conditions for concentration becomes a practical theme to observe.",
+        "practice": "Reduce distractions and choose one completion criterion.",
+        "question": "What conditions help me concentrate?"
+      },
+      "10-20": {
+        "title": "Aligned expression in the moment",
+        "body": "Behavior aligned with yourself meets present expression. Observe how your words connect with your values in a particular situation.",
+        "practice": "Write an action that supports something you said.",
+        "question": "Do my words and actions point in the same direction?"
+      },
+      "10-34": {
+        "title": "Acting in your own direction",
+        "body": "Individual behavior meets practical power. Observe how you relate your effort to chosen activities rather than only to outside expectations.",
+        "practice": "Describe the connection between an effort and your own values.",
+        "question": "Is my own direction present in what I am doing?"
+      },
+      "10-57": {
+        "title": "Behavior and immediate awareness",
+        "body": "Your behavior meets awareness of the current situation. Explore how a first impression influences your response in a specific encounter.",
+        "practice": "Record an initial observation alongside the behavior that followed.",
+        "question": "How did I respond to the signal I noticed?"
+      },
+      "11-56": {
+        "title": "Ideas and stories",
+        "body": "Ideas meet the sharing of experience through a story. Distinguish an account that offers a perspective from evidence that establishes a conclusion.",
+        "practice": "Share an idea through an example and explain the example's limits.",
+        "question": "Which perspective does this story offer the listener?"
+      },
+      "12-22": {
+        "title": "Feeling and timely expression",
+        "body": "Social openness meets the timing of expression. Observe how emotional experience enters a conversation. This channel defines the Solar Plexus; refer to the emotional authority section for decisions.",
+        "practice": "Consider your readiness and the listener's space before an important conversation.",
+        "question": "Under which conditions can I express this clearly?"
+      },
+      "13-33": {
+        "title": "Listening and sharing experience",
+        "body": "Witnessing meets retreat and reflection. Consider how an experience can be held, understood and shared at a suitable time.",
+        "practice": "Separate your own story from another person's private information.",
+        "question": "Do I have a suitable time and permission to share this story?"
+      },
+      "16-48": {
+        "title": "Depth and skill",
+        "body": "Deep understanding meets skills developed through practice. Compare a feeling of competence with concrete work and feedback.",
+        "practice": "Create a small cycle of practice and feedback for one skill.",
+        "question": "How well can I apply what I know?"
+      },
+      "17-62": {
+        "title": "Explaining a view through details",
+        "body": "A framework meets detailed expression. Consider the consistency of an explanation, its evidence and the listener's needs together.",
+        "practice": "Explain a view through one main claim and three supporting points.",
+        "question": "Do these details make my view understandable?"
+      },
+      "18-58": {
+        "title": "The wish to improve",
+        "body": "Recognizing what could be corrected meets enthusiasm for improvement. Timing, requested feedback and a practical suggestion can make a difference.",
+        "practice": "Name what works alongside one improvement to a process.",
+        "question": "Does my wish to correct something provide a concrete benefit?"
+      },
+      "19-49": {
+        "title": "Needs and principles",
+        "body": "Sensitivity to needs meets conditions of acceptance. Consider whose needs are seen in a group and which agreements shape the arrangement.",
+        "practice": "Discuss the need, the principle and each person's expectations.",
+        "question": "Do the principles of this arrangement actually meet its needs?"
+      },
+      "20-34": {
+        "title": "Present application",
+        "body": "Expression in the present meets practical power. Distinguish being busy from making a chosen contribution; this channel does not require fast decisions.",
+        "practice": "Name the purpose of a task and use your authority section when deciding.",
+        "question": "Does what I am doing serve a purpose I chose?"
+      },
+      "20-57": {
+        "title": "Expressing immediate awareness",
+        "body": "A subtle observation meets expression in the moment. Consider the context and the listener's space before stating an initial impression.",
+        "practice": "Describe a signal as an observation rather than a definitive judgment.",
+        "question": "Is what I am saying an observation or an interpretation?"
+      },
+      "21-45": {
+        "title": "Managing shared resources",
+        "body": "Responsibility for resources meets their distribution in a group. Consider authority, contribution and transparency together; no financial outcome is predicted.",
+        "practice": "Write the decision and distribution rules for a shared resource.",
+        "question": "Are responsibilities and expectations around management clear?"
+      },
+      "23-43": {
+        "title": "Making an insight understandable",
+        "body": "An individual insight meets a simple explanation. Consider when and how to share an idea as well as what makes it new.",
+        "practice": "Share an insight through a concrete example and a short explanation.",
+        "question": "Which context does the listener need?"
+      },
+      "24-61": {
+        "title": "Reconsidering an inner question",
+        "body": "An inner question meets returning to a thought. Distinguish curiosity that creates understanding from being caught in the same question.",
+        "practice": "Pause a thought that adds no new information and name what remains unanswered.",
+        "question": "What has this thinking process added?"
+      },
+      "25-51": {
+        "title": "Stepping beyond the familiar",
+        "body": "Open-heartedness meets testing yourself. Observe what changes in a new experience without treating the channel as a prediction of unexpected events.",
+        "practice": "Clarify the purpose and actual conditions of an experiment.",
+        "question": "What do I want to explore in this step?"
+      },
+      "26-44": {
+        "title": "Patterns and effective presentation",
+        "body": "Recognizing past patterns meets persuasion. When sharing what experience taught you, consider accuracy and the limits of what you promise.",
+        "practice": "Describe the experience behind a proposal and what is different today.",
+        "question": "Does my promise match my actual capacity?"
+      },
+      "27-50": {
+        "title": "Care and responsibility",
+        "body": "Support meets protective values. Observe who receives care, its scope and the capacity available to provide it.",
+        "practice": "Discuss boundaries and other responsibilities within a support arrangement.",
+        "question": "Is the responsibility for care shared fairly?"
+      },
+      "28-38": {
+        "title": "Standing for something meaningful",
+        "body": "Meaning in an effort meets defending a value. Consider what purpose each struggle or objection serves.",
+        "practice": "Write the value of an effort alongside its continuing cost.",
+        "question": "Why does this effort matter to me?"
+      },
+      "29-46": {
+        "title": "Discovery through participation",
+        "body": "Saying yes to an experience meets being present in it. Consider your participation conditions and what you learn without needing to control the outcome.",
+        "practice": "Clarify the scope and your capacity before joining an experience.",
+        "question": "Can I actually sustain this yes?"
+      },
+      "30-41": {
+        "title": "Imagination and desire for experience",
+        "body": "Imagining a possibility meets wanting an experience. Keep expectations distinct from the experience that actually unfolds.",
+        "practice": "Consider different possible outcomes alongside the one you imagine.",
+        "question": "Would I still want the experience if the outcome changed?"
+      },
+      "32-54": {
+        "title": "Development and continuity",
+        "body": "The wish to progress meets recognizing what can last. Consider development alongside the values you preserve and the conditions you face.",
+        "practice": "Identify what you want to preserve within a change.",
+        "question": "Which value do I want to sustain while things develop?"
+      },
+      "34-57": {
+        "title": "Power and subtle awareness",
+        "body": "Practical power meets awareness of immediate signals. Observe how effort and awareness work together in a task; this is not a health or safety assessment.",
+        "practice": "Record what you noticed during a task and how you responded.",
+        "question": "Am I noticing the situation while directing my effort?"
+      },
+      "35-36": {
+        "title": "Learning through new experience",
+        "body": "A desire for change meets learning in an unfamiliar situation. Make room to process an intense experience before treating it as a general rule.",
+        "practice": "Compare what you expected with what the experience taught you.",
+        "question": "What did this experience actually teach me?"
+      },
+      "37-40": {
+        "title": "Agreement and reciprocity",
+        "body": "Support in close relationships meets effort and rest. Turn implicit expectations into clear agreements where possible.",
+        "practice": "Discuss the exchange, effort and personal time involved in a shared task.",
+        "question": "Does this agreement make room for both contribution and rest?"
+      },
+      "39-55": {
+        "title": "Bringing emotional meaning into view",
+        "body": "Emotional movement meets the meaning of an experience. Observe how feelings change in an encounter without assuming that someone must be provoked.",
+        "practice": "Open a difficult emotional topic at a suitable time and with mutual willingness.",
+        "question": "Which feeling or need became visible in this encounter?"
+      },
+      "42-53": {
+        "title": "Beginning and completing a cycle",
+        "body": "Beginning a process meets bringing it to completion. Consider the stage of a task and the conditions that define its completion.",
+        "practice": "Write the starting, developing and completion criteria for a project.",
+        "question": "Which stage is this process in?"
+      },
+      "47-64": {
+        "title": "From impressions to understanding",
+        "body": "Scattered impressions meet making sense of experience. Observe connections that emerge over time without forcing the past into one explanation.",
+        "practice": "Record the parts of an event without interpretation, then revisit them.",
+        "question": "How has new information changed my understanding?"
+      }
+    }
+  },
+  "typeThemes": {
+    "tr": {
+      "Generator": {
+        "title": "Generator · sürdürülebilir katılım",
+        "body": "Human Design, tanımlı sakral merkezi tekrar eden üretim ve katılım temasıyla okur. Bu, her iş için sınırsız enerjin olduğu anlamına gelmez. Önündeki somut bir işe, soruya ya da fırsata verdiğin karşılığı gözlemlemek, hangi uğraşlara gerçekten katılmak istediğini ayırt etmene yardımcı olabilir.",
+        "practice": "Gün sonunda hangi işlerin seni doyurduğunu, hangilerinde yalnızca mecburiyet hissettiğini yaz. Yorgunluğu kişisel başarısızlık olarak yorumlama; iş yükü ve dinlenme de sonucu etkiler.",
+        "question": "Bu işe ilgiyle mi katılıyorum, yoksa yalnızca başlamış olduğum için mi sürdürüyorum?"
+      },
+      "Manifesting Generator": {
+        "title": "Manifesting Generator · denemek ve düzenlemek",
+        "body": "Tanımlı sakral merkez ve bir motor merkezinin boğaza bağlantısı bu tipi oluşturur. Sistem bunu bir işe karşılık verip uygulama sırasında rotayı düzenleme temasıyla yorumlar. Birden fazla ilgi alanı, bir aşamayı yeniden ele almak ya da bir işi bırakmak üzerine düşünmek için kullanabilirsin; harita hızlı veya çok görevli olmak zorunda olduğunu söylemez.",
+        "practice": "Bir projede küçük bir uygulama adımı dene, geri bildirimi al ve sonraki adımı düzenle. Yön değişikliği başkalarının planını etkiliyorsa değişikliği açıkça paylaş.",
+        "question": "Hızlanırken gerçekten gerekli bir adımı atlıyor muyum; yön değiştirmem gerekiyorsa bunu kime söylemeliyim?"
+      },
+      "Projector": {
+        "title": "Projector · fark etmek ve rehberlik etmek",
+        "body": "Sakral merkezin tanımlı olmaması ve motor–boğaz bağlantısının bulunmaması bu tipi ayırır. Human Design bunu süreçleri ve insanları gözlemleme, rehberliğin tanınması temasıyla ele alır. Sürekli üretim temposuyla değerini ölçmek yerine, bir katkının nerede istendiğini ve nerede karşılık bulduğunu gözlemleyebilirsin.",
+        "practice": "Bir görüşünü paylaşmadan önce karşı tarafın geri bildirim isteyip istemediğini sor. Takviminde çalışma kadar duraklama ve toparlanmaya da yer ayır.",
+        "question": "Burada katkım isteniyor mu ve bu ilişki becerimi karşılıklı olarak görüyor mu?"
+      },
+      "Manifestor": {
+        "title": "Manifestor · başlatmak ve haber vermek",
+        "body": "Tanımlı sakral merkez olmadan bir motorun boğaza bağlanması Manifestor tipini oluşturur. Sistem bunu başlatma dürtüsü ve hareketin çevredeki etkisi üzerinden okur. Kendi alanına ihtiyaç duymanla başkalarının bilgiye ihtiyaç duyması birlikte ele alınabilir; bağımsızlık, iş birliğini dışlamak zorunda değildir.",
+        "practice": "Bir değişiklik yapmadan önce etkilenecek kişilere kapsamı, zamanı ve ihtiyaç duyduğun alanı anlat. Sonrasında başlatma ile sürdürme yükünü ayrı değerlendir.",
+        "question": "Bu başlangıç kimleri etkiliyor ve onlara hangi bilgiyi önceden verebilirim?"
+      },
+      "Reflector": {
+        "title": "Reflector · çevreyi ve zaman içindeki değişimi gözlemek",
+        "body": "Haritanda hiçbir merkez bir tam kanalla tanımlanmıyor. Bu, etkin kapın olmadığı veya bir kimliğinin bulunmadığı anlamına gelmez. Human Design bu düzeni çevreye duyarlılık ve zaman içinde farklı bakışlar edinme temalarıyla yorumlar. Aynı ortamın seni farklı günlerde nasıl etkilediğini gözlemlemek başlangıç olabilir.",
+        "practice": "Sık bulunduğun ortamlarda deneyimini günlere yayılan kısa notlarla kaydet. Bir günkü izlenimi bütün hayatının tanımı olarak ele alma.",
+        "question": "Bu ortamda kendime alan buluyor muyum; birkaç gün sonra deneyimim nasıl değişiyor?"
+      }
+    },
+    "en": {
+      "Generator": {
+        "title": "Generator · sustained participation",
+        "body": "Human Design reads a defined Sacral center through the theme of recurring work and participation. This does not mean unlimited energy for every activity. Observing your response to a concrete task, question or opportunity can help you consider which activities you want to join.",
+        "practice": "At the end of a day, note which activities were satisfying and which felt like an obligation. Consider workload and rest rather than treating fatigue as personal failure.",
+        "question": "Am I interested in this activity, or continuing only because I started?"
+      },
+      "Manifesting Generator": {
+        "title": "Manifesting Generator · trying and adjusting",
+        "body": "A defined Sacral center and a motor-to-Throat connection form this type. The system describes responding to an activity and adjusting direction while applying it. Use the theme to reflect on multiple interests, revisiting a step or leaving a task; your chart does not require speed or multitasking.",
+        "practice": "Try a small practical step in a project, gather feedback and adjust the next step. Tell affected people when your change of direction alters their plans.",
+        "question": "Am I skipping a necessary step, and who needs to hear about a change of direction?"
+      },
+      "Projector": {
+        "title": "Projector · noticing and guiding",
+        "body": "An undefined Sacral center and no motor-to-Throat connection distinguish this type. Human Design describes observing people and processes and having a contribution recognized. Consider where guidance is wanted rather than measuring your value only through continuous production.",
+        "practice": "Ask whether feedback is wanted before offering it. Make room for recovery as well as work in your schedule.",
+        "question": "Is my contribution wanted here, and is it recognized mutually?"
+      },
+      "Manifestor": {
+        "title": "Manifestor · initiating and informing",
+        "body": "A motor-to-Throat connection without a defined Sacral center forms this type. The system reads it through initiation and the effect an action has on other people. Your need for space and other people's need for information can both be considered.",
+        "practice": "Before a change, tell affected people its scope, timing and the space you need. Consider the work of initiating separately from the work of maintaining it.",
+        "question": "Who will this beginning affect, and what can I tell them beforehand?"
+      },
+      "Reflector": {
+        "title": "Reflector · observing environment and time",
+        "body": "No center in your chart is defined by a complete channel. This does not mean you have no active gates or no identity. Human Design describes sensitivity to context and gathering perspectives over time. Observing how the same setting affects you on different days can be a useful starting point.",
+        "practice": "Keep brief notes across different days in familiar settings. Avoid treating one day's impression as a definition of your whole life.",
+        "question": "Do I have room for myself in this environment, and how does the experience change over time?"
+      }
+    }
+  },
+  "authorityThemes": {
+    "tr": {
+      "Emotional - Solar Plexus": {
+        "title": "Duygusal otorite · zamana yayılan netlik",
+        "body": "Haritanda solar pleksus tanımlı; Human Design sıralamasında bu, sakral ya da sezgisel işaretlerden önce gelir. İlk heyecan, isteksizlik veya güçlü bir bedensel tepkiyi nihai karar saymak yerine, önemli bir konunun farklı duygu hallerinde nasıl göründüğünü karşılaştırma teması öne çıkar. Sistem burada mutlak kesinlikten çok zamanla artan netliği tarif eder.",
+        "practice": "Acil olmayan önemli bir karar için süre iste. Aynı seçeneği farklı zamanlarda yeniden değerlendir; gerekçelerini ve değişmeyen isteğini yaz. Tek bir gece veya sabit saat sayısı herkes için zorunlu bir kural değildir.",
+        "question": "Duygu halim değiştiğinde bu seçeneğe ilişkin isteğim ve gerekçelerim de tamamen değişiyor mu?"
+      },
+      "Sacral": {
+        "title": "Sakral otorite · somut seçeneğe verilen karşılık",
+        "body": "Solar pleksus tanımsız, sakral merkez tanımlı olduğunda bu otorite kullanılır. Sistem, soyut bir hayat planından çok önündeki somut seçeneğe verdiğin bedensel karşılığı incelemeyi önerir. İstek, isteksizlik veya kararsızlığı gözlemlemek mümkündür; bir bedensel his tek başına olguların ve sonuçların yerine geçmez.",
+        "practice": "Bir konuyu birkaç açık evet/hayır sorusuna böl. Yanıt veremediğin yerde soruyu somutlaştır; sosyal baskıyı ve gerçek kapasiteni ayrıca değerlendir.",
+        "question": "Bu seçeneğe katılmak istiyor muyum, yoksa kendimi ikna etmeye mi çalışıyorum?"
+      },
+      "Splenic": {
+        "title": "Dalak otoritesi · anlık farkındalığı duymak",
+        "body": "Duygusal ve sakral otorite olmadan tanımlı dalak merkezi bu okumayı oluşturur. Human Design bunu içinde bulunulan ana ilişkin kısa ve sakin bir sezgisel işaret olarak anlatır. Sürekli tekrar eden endişe ile ilk fark edişini birbirinden ayırmayı gözlemleyebilirsin; harita bir tehlike tespiti veya sağlık değerlendirmesi yapmaz.",
+        "practice": "Bir karşılaşmada ilk izlenimini not et, sonra elindeki somut bilgilerle karşılaştır. Sezgi diye adlandırdığın şeyin alışkanlık veya baskı olup olmadığını da sorgula.",
+        "question": "İlk sakin izlenimim neydi; sonradan hangi düşünceler ona eklendi?"
+      },
+      "Ego Manifested": {
+        "title": "Ego otoritesi · istek ve taahhüt",
+        "body": "Bu düzende irade merkezi boğaza bağlanır. Yorumun odağı, seslendirdiğin gerçek isteği ve o isteğe ayırabileceğin gücü fark etmektir. Bir şeyi istemekle sürekli yapabilecek olmak farklıdır. Başlatacağın işin yükünü ve dinlenme ihtiyacını dürüstçe ifade edebilirsin.",
+        "practice": "Bir söz vermeden önce neyi istediğini, ne kadar süre ve kaynak ayırabileceğini yüksek sesle ifade et. Etkilenecek kişilere kararını bildir.",
+        "question": "Bunu gerçekten istiyor muyum ve verdiğim sözü hangi kaynaklarla tutabilirim?"
+      },
+      "Ego Projected": {
+        "title": "Ego otoritesi · davet içinde gerçek isteğini ayırmak",
+        "body": "İrade merkezi üzerinden okunan bu otorite, Projector stratejisiyle birlikte ele alınır. Bir fırsatta tanınmak, her daveti kabul etmen gerektiği anlamına gelmez. Beklentiye uygun görünme çabasıyla gerçek isteğini ayırmak ve üstleneceğin sorumluluğu açık konuşmak bu yorumun merkezidir.",
+        "practice": "Bir davette senden ne beklendiğini netleştir. İstediğini ve karşılığında sunabileceğini ayrı cümlelerle anlat.",
+        "question": "Bu davette benim isteğim de var mı, yoksa yalnızca diğer kişinin beklentisini mi karşılıyorum?"
+      },
+      "Self Projected": {
+        "title": "Kendini ifade etme otoritesi · konuşurken yönünü duymak",
+        "body": "G merkezi boğaza bağlanırken daha öncelikli bir içsel otorite bulunmaz. Human Design, kendini ifade ederken kendi sesinden duyduğun yön ve uyum temasını vurgular. Dinleyen kişi senin yerine karar veren bir danışman olmaktan çok, kendini duymana alan açan biri olabilir.",
+        "practice": "Güvendiğin birine seçeneklerini anlat ve senden önce çözüm önermemesini iste. Konuşurken hangi seçenekte kendini daha rahat ifade ettiğini not et.",
+        "question": "Bu seçeneği anlatırken kendi yönümü duyuyor muyum, yoksa bir role uymaya mı çalışıyorum?"
+      },
+      "Sounding Board": {
+        "title": "Çevresel değerlendirme · konuşmak için uygun alan",
+        "body": "Bu Projector düzeninde bedensel bir içsel otorite tanımlanmaz. Sistem, uygun ortamda farklı konuşmalar yoluyla kendi değerlendirmesini duymayı önerir. Birinin tavsiyesini otomatik olarak karar kabul etmek yerine, konuştuğun ortamın ve kişinin düşüncelerini nasıl etkilediğini gözlemleyebilirsin.",
+        "practice": "Önemli bir daveti farklı sakin ortamlarda, seni yönlendirmeden dinleyebilen kişilerle konuş. Duyduğun tavsiye ile senin değerlendirmene ait cümleleri ayır.",
+        "question": "Burada rahatça düşünebiliyor muyum; konuşmanın sonunda kendi görüşüm daha anlaşılır mı?"
+      },
+      "Lunar": {
+        "title": "Ay döngüsü · farklı günlerin bakışını toplamak",
+        "body": "Reflector için sistem, önemli ve acil olmayan seçimleri yaklaşık bir Ay döngüsüne, yaklaşık 28–29 güne yayarak gözlemleme yaklaşımını kullanır. Amaç, tek bir günün etkisini kalıcı bir karar gibi ele almamaktır. Bu takvim gündelik küçük işler için bekleme zorunluluğu oluşturmaz.",
+        "practice": "Acil olmayan büyük bir seçimde farklı günlerdeki izlenimlerini not al, konuş ve dönüp oku. Gerçek son tarihleri ve koşulları da değerlendirmene dahil et.",
+        "question": "Bu karar farklı günlerde ve farklı ortamlarda nasıl hissettiriyor; hangi gerekçeler tekrar ediyor?"
+      }
+    },
+    "en": {
+      "Emotional - Solar Plexus": {
+        "title": "Emotional authority · clarity over time",
+        "body": "Your Solar Plexus is defined. In the Human Design hierarchy, this takes precedence over Sacral and Splenic signals. Rather than treating first excitement, reluctance or a strong physical response as a final decision, compare an important option across emotional states. The system describes growing clarity rather than absolute certainty.",
+        "practice": "Ask for time when an important decision is not urgent. Revisit the option at different times and write down the reasons and wishes that remain. One night or a fixed number of hours is not a universal requirement.",
+        "question": "When my emotional state changes, does my wish for this option change completely too?"
+      },
+      "Sacral": {
+        "title": "Sacral authority · responding to a concrete option",
+        "body": "This authority applies when the Sacral is defined and the Solar Plexus is undefined. The system emphasizes observing a physical response to a concrete option rather than an abstract life plan. Notice willingness, reluctance or uncertainty; a physical sensation does not replace facts and consequences.",
+        "practice": "Break a topic into clear yes-or-no questions. Make a question more concrete where needed, and consider social pressure and actual capacity separately.",
+        "question": "Do I want to participate in this option, or am I trying to persuade myself?"
+      },
+      "Splenic": {
+        "title": "Splenic authority · immediate awareness",
+        "body": "A defined Spleen without Emotional or Sacral authority forms this reading. Human Design describes a brief, quiet awareness of the present situation. Observe the difference between a first impression and recurring worry; the chart is not a danger detector or health assessment.",
+        "practice": "Note an initial impression, then compare it with concrete information. Consider whether what you call intuition might be habit or pressure.",
+        "question": "What was the first quiet impression, and what thoughts were added afterward?"
+      },
+      "Ego Manifested": {
+        "title": "Ego authority · desire and commitment",
+        "body": "In this configuration the Will center connects to the Throat. The reading focuses on expressing a genuine wish and recognizing the effort you can allocate to it. Wanting something and being able to sustain it are different considerations.",
+        "practice": "Before promising something, say what you want and what time and resources you can provide. Inform people affected by the decision.",
+        "question": "Do I actually want this, and what resources support my promise?"
+      },
+      "Ego Projected": {
+        "title": "Ego authority · desire within an invitation",
+        "body": "This authority is considered alongside the Projector strategy. Having your contribution recognized does not mean every invitation must be accepted. Distinguish your actual wish from the effort to meet someone else's expectations.",
+        "practice": "Clarify what an invitation asks of you. Explain what you want and what you can offer in separate statements.",
+        "question": "Does this invitation include my own wish, or only someone else's expectation?"
+      },
+      "Self Projected": {
+        "title": "Self-projected authority · hearing your direction",
+        "body": "The G center connects to the Throat while no higher-priority inner authority is present. Human Design emphasizes hearing a sense of direction as you express yourself. A listener can provide space for this rather than making the decision on your behalf.",
+        "practice": "Talk through options with someone you trust and ask them to listen before offering solutions. Note where your own expression feels more natural.",
+        "question": "Can I hear my own direction while describing this option?"
+      },
+      "Sounding Board": {
+        "title": "Environmental assessment · a space to speak",
+        "body": "This Projector configuration does not define a bodily inner authority. The system describes hearing your own assessment through conversations in suitable environments. Observe how the setting and listener affect your thinking rather than treating their advice as your decision.",
+        "practice": "Discuss an important invitation in calm settings with people who can listen without directing you. Separate their advice from statements that express your own assessment.",
+        "question": "Can I think comfortably here, and is my own view clearer after speaking?"
+      },
+      "Lunar": {
+        "title": "Lunar cycle · gathering perspectives over time",
+        "body": "For Reflectors, the system describes observing a major, non-urgent option across roughly one lunar cycle, about 28–29 days. The theme is to avoid using one day's influence as the measure of a lasting choice. Everyday small tasks do not require this waiting period.",
+        "practice": "For a major non-urgent option, record impressions on different days, talk them through and revisit the notes. Include actual deadlines and conditions in your assessment.",
+        "question": "How does this option appear on different days and in different environments?"
+      }
+    }
+  },
+  "lineThemes": {
+    "tr": {
+      "1": {
+        "title": "Araştırma ve sağlam temel",
+        "body": "Bir konunun dayanağını öğrenme teması. Ayrıntı araştırmak güven sağlayabilir; bütün belirsizliği gidermeye çalışmak ise başlamayı erteletebilir.",
+        "practice": "Yeterli bilgi için bir eşik belirle: hangi üç bilgiye gerçekten ihtiyacın var?",
+        "question": "Bilgi eksikliği mi var, yoksa kesinlik arayışı mı?"
+      },
+      "2": {
+        "title": "Doğal beceri ve kendi alanı",
+        "body": "Kendiliğinden gelen beceriler ile yalnız kalma ihtiyacının birlikte ele alınması. Sana kolay gelen bir beceriyi küçümsememek ve her çağrıya yanıt vermek zorunda hissetmemek üzerine düşünebilirsin.",
+        "practice": "Kendi başına çalışmak ve uygun insanlarla paylaşmak için ayrı zamanlar ayır.",
+        "question": "Bana kolay gelen hangi beceriyi başkaları değerli buluyor?"
+      },
+      "3": {
+        "title": "Deneyim ve deneme",
+        "body": "Uygulayarak neyin çalıştığını öğrenme teması. Bir denemenin beklenen sonucu vermemesi kimliğini tanımlamaz; süreç hakkında veri sağlar.",
+        "practice": "Küçük ve geri alınabilir bir deneme yap; önce beklentini, sonra öğrendiğini yaz.",
+        "question": "Bu deneyimden ne öğrendim ve sonraki denemede neyi değiştireceğim?"
+      },
+      "4": {
+        "title": "Güven ilişkileri ve paylaşım",
+        "body": "Tanıdık çevre, karşılıklı güven ve bağlantılar üzerinden paylaşım teması. İlişki kurmayı yalnızca fırsat toplamak olarak görmeden, yakınlık ve sınırları birlikte gözlemleyebilirsin.",
+        "practice": "Bir bağlantıda karşılıklı katkıyı ve beklentiyi açıklaştır; sosyal takviminde dinlenme payı bırak.",
+        "question": "Bu ilişki iki tarafa da alan ve karşılık sağlıyor mu?"
+      },
+      "5": {
+        "title": "Pratik çözüm ve beklentiler",
+        "body": "Başkalarının çözüm beklentisiyle karşılaşma ve işe yarar bir yaklaşım sunma teması. Beklentiyi üstlenmeden önce gerçekten ne sunabileceğini anlatmak önem kazanır.",
+        "practice": "Bir görevde kapsamı, başarı ölçütünü ve yapamayacaklarını başlangıçta konuş.",
+        "question": "Benden beklenen ile gerçek katkım aynı şey mi?"
+      },
+      "6": {
+        "title": "Gözlem ve örnek olma",
+        "body": "Deneyimlerden geri çekilip daha geniş bir bakış edinme ve yaşananı tutarlı biçimde yansıtma teması. Sistem bunu yaşam evreleriyle anlatır; yaşına göre karakter veya başarı düzeyi çıkarımı yapılmaz.",
+        "practice": "Bir deneyimi hemen genellemeden önce zaman içinde tekrar eden örüntüleri izle.",
+        "question": "Tavsiye verdiğim konularda kendi davranışım neyi gösteriyor?"
+      }
+    },
+    "en": {
+      "1": {
+        "title": "Investigation and foundations",
+        "body": "Learning the basis of a subject. Research can provide confidence, while trying to remove every uncertainty can postpone a beginning.",
+        "practice": "Identify the three pieces of information you actually need.",
+        "question": "Is information missing, or am I searching for certainty?"
+      },
+      "2": {
+        "title": "Natural ability and personal space",
+        "body": "Considering abilities that come naturally alongside a need for solitude. Avoid undervaluing an easy skill or feeling obliged to respond to every call.",
+        "practice": "Make separate space for working alone and sharing with suitable people.",
+        "question": "Which ability feels easy to me but valuable to others?"
+      },
+      "3": {
+        "title": "Experience and experimentation",
+        "body": "Learning what works through trying it. An unexpected result provides information about a process rather than defining your identity.",
+        "practice": "Try a small reversible experiment and record what it taught you.",
+        "question": "What did I learn, and what would I change next time?"
+      },
+      "4": {
+        "title": "Trust and connections",
+        "body": "Sharing through familiar relationships and mutual trust. Consider closeness and boundaries without reducing relationships to collecting opportunities.",
+        "practice": "Clarify mutual contribution and expectations and allow time to rest.",
+        "question": "Does this relationship make room for both people?"
+      },
+      "5": {
+        "title": "Practical solutions and expectations",
+        "body": "Meeting expectations that you can provide a solution. Explain what you can actually offer before taking responsibility for someone else's expectations.",
+        "practice": "Discuss scope, success criteria and limits at the start of a task.",
+        "question": "Does what is expected match what I can offer?"
+      },
+      "6": {
+        "title": "Observation and example",
+        "body": "Stepping back from experience to develop a wider perspective and reflect what has been learned. The system discusses life stages; no character or achievement level is inferred from age here.",
+        "practice": "Observe recurring patterns over time before generalizing from an experience.",
+        "question": "What do my actions demonstrate in areas where I give advice?"
+      }
+    }
+  },
+  "centerThemes": {
+    "tr": {
+      "head": {
+        "title": "Baş · sorular ve ilham",
+        "body": "Sorular, merak ve cevap arama baskısı.",
+        "practice": "Aklına gelen soruları yaz; hangisinin bugün gerçekten sana ait bir işi ilgilendirdiğini seç.",
+        "question": "Her soruya şimdi cevap bulmam gerekiyor mu?"
+      },
+      "ajna": {
+        "title": "Ajna · anlamlandırma",
+        "body": "Kavramlar, görüşler ve bilgiyi yorumlama biçimi.",
+        "practice": "Bir görüşü olgu, yorum ve varsayım olarak üçe ayır. Fikrini değiştirebilmek için alan bırak.",
+        "question": "Bunu biliyor muyum, yoksa belli bir yorumla mı ele alıyorum?"
+      },
+      "throat": {
+        "title": "Boğaz · ifade ve görünür eylem",
+        "body": "Kendini ifade etme, anlatma ve bir şeyi görünür hale getirme.",
+        "practice": "Konuşurken içeriği kadar zamanı ve dinleyenin ilgisini de gözlemle.",
+        "question": "Şu anda paylaşmak için alan var mı?"
+      },
+      "g": {
+        "title": "G · yön ve kimlik",
+        "body": "Yön, aidiyet ve kendini nasıl tanımladığın.",
+        "practice": "Bir ortamda hangi yönlerinin rahatça ortaya çıktığını ve hangi rollere sıkıştığını yaz.",
+        "question": "Bu ortamda kendimi rahatça ifade edebiliyor muyum?"
+      },
+      "heart": {
+        "title": "İrade · değer ve taahhüt",
+        "body": "İstek, özdeğer, söz verme ve kaynak ayırma.",
+        "practice": "Sözlerini gerçek zamanın ve kaynaklarınla eşleştir. Değerini kanıtlamak için verdiğin sözleri gözden geçir.",
+        "question": "Bu taahhüt isteğimden mi, kendimi ispat çabamdan mı geliyor?"
+      },
+      "splenic": {
+        "title": "Dalak · anlık farkındalık",
+        "body": "Anlık sezgi, alışkanlıklar ve tutunma temaları; organ sağlığı hakkında bir bilgi değildir.",
+        "practice": "Sürdürdüğün bir alışkanlığın bugün gerçekten işe yarayıp yaramadığını değerlendir.",
+        "question": "Tanıdık olduğu için mi sürdürüyorum, bugün işe yaradığı için mi?"
+      },
+      "sacral": {
+        "title": "Sakral · katılım ve çalışma",
+        "body": "Bir işe katılma isteği, üretim ritmi ve sürdürülebilir uğraş.",
+        "practice": "Yapılacaklar listene kapasiteni ve toparlanma zamanını da ekle.",
+        "question": "Bu işe ayırabileceğim gerçek kapasite ne?"
+      },
+      "solar plexus": {
+        "title": "Solar pleksus · duygusal deneyim",
+        "body": "Duygular, ilişkisel hassasiyet ve deneyimin zaman içinde değişmesi.",
+        "practice": "Bir duyguyu adlandırırken durumu ve zamanı da not et; tek bir duygu halini bütün ilişkinin sonucu sayma.",
+        "question": "Bu duygunun içinde hangi ihtiyacımı fark ediyorum?"
+      },
+      "root": {
+        "title": "Kök · baskı ve tempo",
+        "body": "Başlama, bitirme ve baskı altında hareket etme temaları.",
+        "practice": "İşin gerçek son tarihini, kendine koyduğun acele hissinden ayır.",
+        "question": "Şimdi hızlanmam gerekiyor mu, yoksa baskıdan kurtulmak mı istiyorum?"
+      }
+    },
+    "en": {
+      "head": {
+        "title": "Head · questions and inspiration",
+        "body": "Questions, curiosity and the pressure to find answers.",
+        "practice": "Write down questions and choose which ones relate to something you actually need to address today.",
+        "question": "Does every question need an answer now?"
+      },
+      "ajna": {
+        "title": "Ajna · making sense of information",
+        "body": "Concepts, perspectives and the way information is interpreted.",
+        "practice": "Separate facts, interpretations and assumptions; allow room for changing your view.",
+        "question": "Do I know this, or am I working with an interpretation?"
+      },
+      "throat": {
+        "title": "Throat · expression and visible action",
+        "body": "Expressing, explaining and making something visible.",
+        "practice": "Observe the timing and the listener's interest as well as the content of your words.",
+        "question": "Is there room for this expression now?"
+      },
+      "g": {
+        "title": "G · direction and identity",
+        "body": "Direction, belonging and the way you describe yourself.",
+        "practice": "Note which aspects of yourself have room in a setting and which roles feel restrictive.",
+        "question": "Can I express myself comfortably in this environment?"
+      },
+      "heart": {
+        "title": "Will · value and commitment",
+        "body": "Desire, self-worth, promises and allocating resources.",
+        "practice": "Match promises with actual time and resources; reconsider commitments made only to prove your value.",
+        "question": "Does this commitment come from desire or a need to prove myself?"
+      },
+      "splenic": {
+        "title": "Spleen · immediate awareness",
+        "body": "Immediate impressions, habits and holding on; this is not information about an organ's health.",
+        "practice": "Consider whether a familiar habit still serves its purpose today.",
+        "question": "Am I keeping this because it is familiar or because it is useful?"
+      },
+      "sacral": {
+        "title": "Sacral · participation and work",
+        "body": "Willingness to participate, a working rhythm and sustainable engagement.",
+        "practice": "Include capacity and recovery time in your plans.",
+        "question": "What is my actual capacity for this activity?"
+      },
+      "solar plexus": {
+        "title": "Solar Plexus · emotional experience",
+        "body": "Feelings, relational sensitivity and experience changing over time.",
+        "practice": "Record the situation and time alongside a feeling; avoid defining an entire relationship through one emotional state.",
+        "question": "Which need can I recognize within this feeling?"
+      },
+      "root": {
+        "title": "Root · pressure and pace",
+        "body": "Beginning, finishing and acting under pressure.",
+        "practice": "Separate an actual deadline from the feeling that you must hurry.",
+        "question": "Do I need to move faster, or just want to escape the pressure?"
+      }
+    }
+  }
+}
